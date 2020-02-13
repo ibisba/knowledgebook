@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Universitat Autònoma de Barcelona on IBISBA</title>
-    <link>https://examplesite.com/consortium/uab/</link>
+    <link>https://ibisba.github.io/knowledgebook/consortium/uab/</link>
     <description>Recent content in Universitat Autònoma de Barcelona on IBISBA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The Hugo Documents are copyright © [gethugothemes](https://gethugothemes.com/) 2020.</copyright>
     <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="https://examplesite.com/consortium/uab/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ibisba.github.io/knowledgebook/consortium/uab/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
