@@ -7,7 +7,7 @@ theme = "dot"
 title = "IBISBA"
 # desable language
 disableLanguages = []
-
+publishDir = "docs"
 ############################# Default Parameters ##########################
 [params]
 # logo is for all page
