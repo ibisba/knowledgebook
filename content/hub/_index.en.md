@@ -6,4 +6,8 @@ description: "All topic related to the IBISBA Hub"
 type : "docs"
 ---
 
-IBISBA HUB CONTENT HERE
+**The IBISBAHub** is the place to share **scientific information** related to the IBISBA 1.0 project: 
+
+Online portal for storing, sharing and launching workflows linked with related data and models.  
+
+<img src="Concept.png" alt="Concept" style="zoom:100%;" />
