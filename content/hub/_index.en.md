@@ -1,6 +1,6 @@
 ---
 title: "IBISBA Hub"
-date: 2018-12-28T11:02:05+06:00
+date: 2020-02-14T10:00:00+06:00
 icon: "ti-world"
 description: "All topic related to the IBISBA Hub"
 type : "docs"
