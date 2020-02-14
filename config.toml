@@ -66,21 +66,33 @@ hasChildren = true
 
   [[menu.main]]
   parent = "docs"
-  name = "Installation"
-  url = "installation"
+  name = "Access"
+  url = "access"
   weight = 1
 
   [[menu.main]]
   parent = "docs"
-  name = "Billing and Pricing"
-  url = "billing-pricing"
+  name = "Consortium"
+  url = "consortium"
   weight = 2
 
   [[menu.main]]
   parent = "docs"
-  name = "Features"
-  url = "features"
+  name = "IBISBA-Hub"
+  url = "hub"
   weight = 3
+
+  [[menu.main]]
+  parent = "docs"
+  name = "Standardisation"
+  url = "standardisation"
+  weight = 4
+
+  [[menu.main]]
+  parent = "docs"
+  name = "Workpackages"
+  url = "workpackages"
+  weight = 5
 
 ################################ English Language ######################
 [Languages.en]
