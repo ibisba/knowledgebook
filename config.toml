@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://ibisba.github.io/knowledgebook/"
+baseURL = "https://ibisba.github.io/handbook/"
 # theme
 theme = "dot"
 # site title
@@ -104,7 +104,7 @@ copyright = "The Hugo Documents are copyright © [gethugothemes](https://gethugo
 
 # banner
 [Languages.en.params.banner]
-title = "IBISBA Knowledge base"
+title = "IBISBA handbook base"
 description = "Find advice and answers from our support team fast or get in touch"
 bg_image = "images/banner.jpg"
 placeholder = "Have a question? Just ask here or enter terms"
