@@ -6,6 +6,9 @@ weight: 2
 draft: false
 ---
 
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+To modify the content of a page you need to click on the GitHub icon at the bottom of such a document.
 
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
+![](./images/github.png)
+
+When you click on this icon you are immediately brought to the online editor on GitHub in which you can modify the page that you were viewing.
+
