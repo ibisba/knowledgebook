@@ -1,7 +1,10 @@
 ---
-title: "Access"
+title: "1. Access"
 date: 2020-02-14T10:00:00+06:00
 icon: "ti-package"
-description: "Something something about TNA"
+description: "TNA access procedure"
 type : "docs"
+weight: 100
 ---
+
+[Edit on github](https://github.com/ibisba/handbook/blob/master/content/access/_index.en.md)

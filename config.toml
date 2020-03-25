@@ -69,30 +69,51 @@ hasChildren = true
   name = "Access"
   url = "access"
   weight = 1
-
+  [[menu.main]]
+  parent = "docs"
+  name = "Project management"
+  url = "project_management"
+  weight = 2
+  [[menu.main]]
+  parent = "docs"
+  name = "IBISBA Hub"
+  url = "ibisba_hub"
+  weight = 3
   [[menu.main]]
   parent = "docs"
   name = "Consortium"
   url = "consortium"
-  weight = 2
-
+  weight = 4
   [[menu.main]]
   parent = "docs"
-  name = "IBISBA-Hub"
-  url = "hub"
-  weight = 3
-
+  name = "Facilities"
+  url = "facilities"
+  weight = 5
+  [[menu.main]]
+  parent = "docs"
+  name = "Handbook"
+  url = "handbook"
+  weight = 7
+  [[menu.main]]
+  parent = "docs"
+  name = "Protocols"
+  url = "protocols"
+  weight = 8
   [[menu.main]]
   parent = "docs"
   name = "Standardisation"
   url = "standardisation"
-  weight = 4
-
+  weight = 9
   [[menu.main]]
   parent = "docs"
   name = "Workpackages"
   url = "workpackages"
-  weight = 5
+  weight = 10
+  [[menu.main]]
+  parent = "docs"
+  name = "FAQ"
+  url = "faq"
+  weight = 11
 
 ################################ English Language ######################
 [Languages.en]
@@ -108,6 +129,12 @@ title = "IBISBA handbook base"
 description = "Find advice and answers from our support team fast or get in touch"
 bg_image = "images/banner.jpg"
 placeholder = "Have a question? Just ask here or enter terms"
+
+# Github
+[Languages.en.params.github]
+title = "Edit on GitHub"
+description = "Edit this page on GitHub"
+git_image = "images/GitHub-Mark-32px.png"
 
 # call to action
 [Languages.en.params.cta]
