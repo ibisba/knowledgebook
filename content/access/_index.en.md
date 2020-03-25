@@ -6,5 +6,3 @@ description: "TNA access procedure"
 type : "docs"
 weight: 100
 ---
-
-[Edit on github](https://github.com/ibisba/handbook/blob/master/content/access/_index.en.md)
