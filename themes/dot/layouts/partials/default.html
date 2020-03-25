@@ -63,7 +63,7 @@
             {{end}}
 
             ...
-            <a href={{ replace $.Permalink "https://ibisba.github.io/handbook" "https://github.com/ibisba/handbook/tree/master/content"}}_index.en.md><img src={{ .Site.Params.github.git_image | absURL }} alt="Edit on Github" height="32" width="32">></a>
+            <a href={{ replace $.Permalink "https://ibisba.github.io/handbook" "https://github.com/ibisba/handbook/tree/master/content"}}_index.en.md><img src={{ .Site.Params.github.git_image | absURL }} alt="Edit on Github" height="32" width="32"></a>
             ...
 
             {{with ($.Scratch.Get "nextPage")}}
