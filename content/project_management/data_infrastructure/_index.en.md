@@ -7,6 +7,6 @@ description: "The data infrastructure available within IBISA"
 weigth : 200
 ---
 
-### Project Management
+### Data infrastructure
 
 ...
