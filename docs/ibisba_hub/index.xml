@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1. Access on IBISBA</title>
-    <link>https://ibisba.github.io/handbook/access/</link>
-    <description>Recent content in 1. Access on IBISBA</description>
+    <title>3. IBISBA Hub on IBISBA</title>
+    <link>https://ibisba.github.io/handbook/ibisba_hub/</link>
+    <description>Recent content in 3. IBISBA Hub on IBISBA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The Hugo Documents are copyright © [gethugothemes](https://gethugothemes.com/) 2020.</copyright>
     <lastBuildDate>Fri, 14 Feb 2020 10:00:00 +0600</lastBuildDate>
     
-	<atom:link href="https://ibisba.github.io/handbook/access/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ibisba.github.io/handbook/ibisba_hub/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

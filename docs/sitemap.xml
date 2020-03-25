@@ -3,12 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ibisba.github.io/handbook/access/procedure/</loc>
-    <lastmod>2020-02-14T10:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibisba.github.io/handbook/hub/account/</loc>
+    <loc>https://ibisba.github.io/handbook/ibisba_hub/account/</loc>
     <lastmod>2020-02-14T10:00:00+06:00</lastmod>
   </url>
   
@@ -33,12 +28,17 @@
   </url>
   
   <url>
-    <loc>https://ibisba.github.io/handbook/hub/upload/</loc>
+    <loc>https://ibisba.github.io/handbook/ibisba_hub/upload/</loc>
     <lastmod>2020-02-14T10:00:00+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://ibisba.github.io/handbook/workpackages/wp1/</loc>
+    <lastmod>2020-02-14T10:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibisba.github.io/handbook/access/procedure/</loc>
     <lastmod>2020-02-14T10:00:00+06:00</lastmod>
   </url>
   
@@ -98,6 +98,11 @@
   </url>
   
   <url>
+    <loc>https://ibisba.github.io/handbook/access/transnational_access/</loc>
+    <lastmod>2020-02-14T10:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ibisba.github.io/handbook/consortium/uniman/</loc>
     <lastmod>2020-02-14T10:00:00+06:00</lastmod>
   </url>
@@ -123,12 +128,12 @@
   </url>
   
   <url>
-    <loc>https://ibisba.github.io/handbook/hub/isa/</loc>
+    <loc>https://ibisba.github.io/handbook/ibisba_hub/isa/</loc>
     <lastmod>2020-02-14T10:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ibisba.github.io/handbook/hub/project/</loc>
+    <loc>https://ibisba.github.io/handbook/ibisba_hub/project/</loc>
     <lastmod>2020-02-14T10:00:00+06:00</lastmod>
   </url>
   
@@ -138,7 +143,12 @@
   </url>
   
   <url>
-    <loc>https://ibisba.github.io/handbook/hub/management/</loc>
+    <loc>https://ibisba.github.io/handbook/ibisba_hub/management/</loc>
+    <lastmod>2020-02-14T10:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibisba.github.io/handbook/protocols/</loc>
     <lastmod>2020-02-14T10:00:00+06:00</lastmod>
   </url>
   
@@ -153,7 +163,17 @@
   </url>
   
   <url>
+    <loc>https://ibisba.github.io/handbook/facilities/</loc>
+    <lastmod>2020-02-14T10:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ibisba.github.io/handbook/workpackages/wp6/</loc>
+    <lastmod>2020-02-14T10:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibisba.github.io/handbook/handbook/</loc>
     <lastmod>2020-02-14T10:00:00+06:00</lastmod>
   </url>
   
@@ -173,12 +193,17 @@
   </url>
   
   <url>
-    <loc>https://ibisba.github.io/handbook/consortium/</loc>
+    <loc>https://ibisba.github.io/handbook/project_management/</loc>
     <lastmod>2020-02-14T10:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ibisba.github.io/handbook/hub/</loc>
+    <loc>https://ibisba.github.io/handbook/ibisba_hub/</loc>
+    <lastmod>2020-02-14T10:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibisba.github.io/handbook/consortium/</loc>
     <lastmod>2020-02-14T10:00:00+06:00</lastmod>
   </url>
   
