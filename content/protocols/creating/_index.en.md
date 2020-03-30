@@ -12,7 +12,7 @@ draft: false
 
 **Scope of IBISBA protocols**
 
-Each IBISBA protocol should cover a single Task. Before starting to write an IBISBA protocol, one should first identify which Task in the IBISBA Task Curation system would be covered by the protocol. If no such Task can be identified, a new Task must be added to the Task Curation system. Protocols covering multiple Tasks should be divided into several smaller protocols to make them IBISBA-compatible. For example, if a protocol covers both: 1) preparation of electrocompetent cells and 2) transformation of electrocompetent cells, it should be divided into two protocols (i.e. “Preparation of electrocompetent cells” and “Transformation of electrocompetent cells”). If a protocol that covers multiple Tasks or a single Task only partially has been uploaded, the Main Protocol Curator will contact the Protocol Curator of the responsible organization. If two protocols for the same Task have been uploaded to the IBISBA Hub, the Main Curator will make the decision which one will be left in the IBISBA Hub and which one will be removed.
+Each IBISBA protocol should cover a single Task. Before starting to write an IBISBA protocol, you should first identify which Task in the IBISBA Task Curation system would be covered by the protocol. If no such Task can be identified, a new Task must be added to the Task Curation system. Protocols covering multiple Tasks should be divided into several smaller protocols to make them IBISBA-compatible. For example, if a protocol covers both: 1) preparation of electrocompetent cells and 2) transformation of electrocompetent cells, it should be divided into two protocols (i.e. “Preparation of electrocompetent cells” and “Transformation of electrocompetent cells”). If a protocol that covers multiple Tasks or a single Task only partially has been uploaded, the Main Protocol Curator will contact the Protocol Curator of the responsible organization. If two protocols for the same Task have been uploaded to the IBISBA Hub, the Main Curator will make the decision which protocol will be left in the IBISBA Hub and which protocol will be removed.
 
 **Input, output and critical points**
 
@@ -24,7 +24,7 @@ Each protocol contains important steps that need to be carried out in a specific
 
 **When to write a new IBISBA protocol or update an old one**
 
-Before starting to write a new IBISBA protocol one should check from the IBISBA Hub whether it already contains a protocol for the Task in question. If the IBISBA Hub contains such a protocol, one should review it for critical points and consider whether it can be used in one’s project. If the existing protocol differs too much with respect to its critical points, i.e. the output cannot be obtained or the quality of the output is compromised, a new protocol shall be written. If changes are made to an existing protocol without affecting the critical points, then a new version of the protocol shall be generated.
+Before starting to write a new IBISBA protocol you should check from the IBISBA Hub whether it already contains a protocol for the Task in question. If the IBISBA Hub contains such a protocol, you should review it for critical points and consider whether it can be used in your project. If the existing protocol differs too much with respect to its critical points, i.e. the output cannot be obtained or the quality of the output is compromised, a new protocol shall be written. If changes are made to an existing protocol without affecting the critical points, then a new version of the protocol has to be generated.
 
 
 ### Structure of IBISBA protocols
@@ -123,7 +123,7 @@ Note: The steps must also include anything critical to the successful execution 
 
 The Output section shall contain all materials and information resulting from executing this protocol. This section should also contain information about the format in which the output data is to be stored. The quality metric, minimal expected/acceptable score, and any information needed to interpret the quality of the output shall also be specified.
 
-Tip: One may explain potential objectives/uses of the information, data and/or materials resulted from this protocol.
+Tip: You may explain potential objectives/uses of the information, data and/or materials resulted from this protocol.
 
 **8.	Safety guidelines**
 
