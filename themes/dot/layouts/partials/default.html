@@ -62,10 +62,6 @@
             <a class="nav nav-prev" href="{{.Permalink }}"><i class="ti-arrow-left mr-2"></i> <span class="d-none d-md-block">{{.Title}}</span></a>
             {{end}}
 
-            ...
-            <a href={{ replace $.Permalink "https://ibisba.github.io/handbook" "https://github.com/ibisba/handbook/tree/master/content"}}_index.en.md><img src={{ .Site.Params.github.git_image | absURL }} alt="Edit on Github" height="32" width="32"></a>
-            ...
-
             {{with ($.Scratch.Get "nextPage")}}
             <a class="nav nav-next" href="{{.Permalink }}"> <span class="d-none d-md-block">{{.Title}}</span><i class="ti-arrow-right ml-2"></i></a>
             {{end}}
@@ -75,6 +71,10 @@
     </div>
   </div>
 </section>
+
+<div class="git-ribbon">
+  <a href={{ replace $.Permalink "https://ibisba.github.io/handbook" "https://github.com/ibisba/handbook/tree/master/content"}}_index.en.md>Edit on GitHub</a>
+</div>
 {{ "<!-- /details page -->" | safeHTML }}
 
 <!-- templates -->
