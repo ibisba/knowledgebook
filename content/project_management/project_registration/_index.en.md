@@ -9,15 +9,21 @@ weigth : 2
 
 ### Project Registration
 
-Step1: Go to https://hub.ibisba.eu and click on the Log in to your account
+Step1: 
+Go to https://hub.ibisba.eu and click "Log in" to sign into your account
 
 
 ![](Picture1.png)
 
-Step2: After logging in click on the Create tab and from the pull down menu select “Project” and a New Project page will open 
+
+
+Step2: 
+After logging in click on the "Create" tab and from the pull down menu select “Project” and a New Project page will open 
 
 
 ![](Picture2.png)
+
+
 
 Step3: 
   1.On the New Project page fill in the Title and any other information that is available to you
