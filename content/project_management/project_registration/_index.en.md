@@ -30,9 +30,13 @@ After logging in click on the "Create" tab and from the pull down menu select �
 Step3: 
 
   1.On the New Project page fill in the Title and any other information that is available to you
+  
   2.From the Associated programme pull down menu choose TransNational Access
+  
   3.Next check the box at the beginning of “Add me to this Project and make me the Project administrator”
+  
   4.Next from the Your Institution pull down menu choose the  institution at which the project has been carried out ( e.g.A       TNA site) 
+  
   5.Click Create
 
 
@@ -41,6 +45,7 @@ Step3:
 Step4: 
 
 Once the Project is created you can click on the Actions tab and select:
+
   1.Manage Project to edit any details about the project if you wish to
   
   
@@ -50,9 +55,13 @@ Once the Project is created you can click on the Actions tab and select:
 Step5:
 
 Once the Project is created you can click on the Actions tab and select: Administer Project members 
+
   1.To select name of people involved in the project
+  
   2.Select the associated Institute name
+  
   3.Click the Confirm changes button
+  
 
 
 ![](Picture6.png)
@@ -60,8 +69,11 @@ Once the Project is created you can click on the Actions tab and select: Adminis
 Step6:
 
 Once the Project is created you can click on the Actions tab and select:
+
   1.Administer Project members roles
+  
   2.To assign administrative roles to member(s) 
+  
   3.Click the Confirm changes button
 
 
