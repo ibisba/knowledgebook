@@ -12,7 +12,7 @@ weigth : 2
 Step1: Go to https://hub.ibisba.eu and click on the Log in to your account
 
 
-![](Picture1.png)
+![](Login.png)
 
 Step2: After logging in click on the Create tab and from the pull down menu select “Project” and a New Project page will open 
 
