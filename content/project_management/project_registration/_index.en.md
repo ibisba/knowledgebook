@@ -40,7 +40,7 @@ Step3:
   5.Click Create
 
 
-![](Picture4.png)
+![](Picture3.png)
 
 Step4: 
 
@@ -49,7 +49,7 @@ Once the Project is created you can click on the Actions tab and select:
   1.Manage Project to edit any details about the project if you wish to
   
   
-![](Picture5.png)
+![](Picture4.png)
 
 
 Step5:
@@ -64,7 +64,7 @@ Once the Project is created you can click on the Actions tab and select: Adminis
   
 
 
-![](Picture6.png)
+![](Picture5.png)
 
 Step6:
 
@@ -77,4 +77,4 @@ Once the Project is created you can click on the Actions tab and select:
   3.Click the Confirm changes button
 
 
-![](Picture7.png)
+![](Picture6.png)
