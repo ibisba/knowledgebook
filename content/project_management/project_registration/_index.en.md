@@ -35,7 +35,7 @@ After logging in click on the **Create** tab and from the pull down menu select 
   
   3.Next check the box at the beginning of “Add me to this Project and make me the Project administrator”
   
-  4.Next from the **Your Institution** pull down menu choose the  institution at which the project has been carried out( e.g.A       TNA site) 
+  4.Next from the **Your Institution** pull down menu choose the  institution at which the project has been carried out( e.g. A       TNA site) 
   
   5.Click Create
 
