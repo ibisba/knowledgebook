@@ -18,7 +18,7 @@ Go to https://hub.ibisba.eu and click **"Log in"** to sign into your account
 
 
 
-## Step2
+## Step2:
 
 After logging in click on the **"Create"** tab and from the pull down menu select **"Project"** and a New Project page will open 
 
