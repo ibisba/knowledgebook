@@ -17,3 +17,4 @@ jobs:
         with:
           destination_repo: ibisba.github.io/handbook
           destination_token: ${{ secrets.PERSONAL_TOKEN }}
+          build_dir: docs
