@@ -18,7 +18,7 @@ Go to https://hub.ibisba.eu and click **"Log in"** to sign into your account
 
 
 
-<h2>Step2:</h2>
+##Step2
 
 After logging in click on the **"Create"** tab and from the pull down menu select **"Project"** and a New Project page will open 
 
@@ -27,7 +27,7 @@ After logging in click on the **"Create"** tab and from the pull down menu selec
 
 
 
-<h2>Step3:</h2> 
+##Step3:
 
   1.On the **"New Project"** page fill in the Title and any other information that is available to you
   
@@ -42,7 +42,7 @@ After logging in click on the **"Create"** tab and from the pull down menu selec
 
 ![](Picture3.png)
 
-<h2>Step4:</h2>
+##Step4:
 
 Once the Project is created you can click on the **"Actions"** tab and select:
 
@@ -52,7 +52,7 @@ Once the Project is created you can click on the **"Actions"** tab and select:
 ![](Picture4.png)
 
 
-<h2>Step5:</h2>
+##Step5:
 
 Once the Project is created you can click on the **"Actions"** tab and select: "Administer Project members" 
 
@@ -66,7 +66,7 @@ Once the Project is created you can click on the **"Actions"** tab and select: "
 
 ![](Picture5.png)
 
-<h2>Step6:</h2>
+##Step6:
 
 Once the Project is created you can click on the **"Actions"** tab and select: **"Administer Project members roles"**
   
