@@ -7,9 +7,8 @@ description: "Registering a project in IBISBA"
 weigth : 2
 ---
 
-### Project Registration
 
-## Step1:
+### Step1:
 
 Go to https://hub.ibisba.eu and click **"Log in"** to sign into your account
 
@@ -18,7 +17,7 @@ Go to https://hub.ibisba.eu and click **"Log in"** to sign into your account
 
 
 
-## Step2:
+### Step2:
 
 After logging in click on the **"Create"** tab and from the pull down menu select **"Project"** and a New Project page will open 
 
@@ -27,7 +26,7 @@ After logging in click on the **"Create"** tab and from the pull down menu selec
 
 
 
-## Step3:
+### Step3:
 
   1.On the **"New Project"** page fill in the Title and any other information that is available to you
   
@@ -42,7 +41,7 @@ After logging in click on the **"Create"** tab and from the pull down menu selec
 
 ![](Picture3.png)
 
-## Step4:
+### Step4:
 
 Once the Project is created you can click on the **"Actions"** tab and select:
 
@@ -52,7 +51,7 @@ Once the Project is created you can click on the **"Actions"** tab and select:
 ![](Picture4.png)
 
 
-## Step5:
+### Step5:
 
 Once the Project is created you can click on the **"Actions"** tab and select: "Administer Project members" 
 
@@ -66,7 +65,7 @@ Once the Project is created you can click on the **"Actions"** tab and select: "
 
 ![](Picture5.png)
 
-## Step6:
+### Step6:
 
 Once the Project is created you can click on the **"Actions"** tab and select: **"Administer Project members roles"**
   
