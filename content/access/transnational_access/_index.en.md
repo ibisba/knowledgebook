@@ -6,4 +6,4 @@ weight: 1
 draft: false
 ---
 
-General information about the TransNational Access (TNA)
+General information about the TransNational Access (TNA).
