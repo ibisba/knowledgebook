@@ -1,11 +1,20 @@
-name: Build Hugo
-on: [push]
+name: Publish Site
+
+on:
+  push:
+    branches:
+      - master
+
 jobs:
-  build:
-    name: Build
+  build-deploy:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Check out code
-      uses: actions/checkout@master
-    - name: Build Hugo
-      uses: lowply/build-hugo@v0.61.0
+      - name: Checkout Repo
+        uses: actions/checkout@master
+        with:
+          submodules: true
+      - name: Publish Site
+        uses: chabad360/hugo-gh-pages@master
+        with:
+          githubToken: ${{ secrets.PERSONAL_TOKEN }}
