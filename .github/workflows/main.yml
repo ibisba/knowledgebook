@@ -15,5 +15,5 @@ jobs:
 
       - uses: jsumners/gh-action-hugo-deploy@v1.0.0
         with:
-          destination_repo: foo/foo.github.io
+          destination_repo: ibisba.github.io/handbook
           destination_token: ${{ secrets.PERSONAL_TOKEN }}
