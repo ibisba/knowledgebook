@@ -9,7 +9,7 @@ weigth : 2
 
 ### Project Registration
 
-##Step1:
+## Step1:
 
 Go to https://hub.ibisba.eu and click **"Log in"** to sign into your account
 
