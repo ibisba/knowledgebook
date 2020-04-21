@@ -1,20 +1,20 @@
-name: Deploy to GitHub Pages
+name: Publish Site
 
 on:
   push:
     branches:
-    - master
+      - master
 
 jobs:
-  hugo-deploy-gh-pages:
+  build-deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@master
+      - name: Checkout Repo
+        uses: actions/checkout@master
         with:
           submodules: true
-
-      - uses: jsumners/gh-action-hugo-deploy@v1.0.0
+      - name: Publish Site
+        uses: chabad360/hugo-gh-pages@master
         with:
-          destination_repo: ibisba/handbook
-          destination_token: ${{ secrets.PERSONAL_TOKEN }}
-          build_dir: docs
+          githubToken: ${{ secrets.PERSONAL_TOKEN }}
