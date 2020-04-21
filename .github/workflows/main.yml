@@ -15,5 +15,5 @@ jobs:
       env:
         GIT_DEPLOY_KEY: ${{ secrets.PERSONAL_TOKEN }}
         HUGO_VERSION: "0.53"
-        WEBSITE_GIT: "git@github.com:LinuxSuRen/linuxsuren.github.io.git"
+        WEBSITE_GIT: "git@github.com:ibisba/handbook.git"
         WEBSITE_DIR: "ibisba.github.io/handbook"
