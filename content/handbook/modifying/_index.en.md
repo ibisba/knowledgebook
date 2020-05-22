@@ -30,7 +30,3 @@ This will bring you to a new screen where you can see the comments that you had 
 You can assign a person to review your modifications by clicking the Reviewers panel and select one of the many people involved.
 
 {{< figure src="images/reviewer.png" width=250px >}}
-
-
-
-
