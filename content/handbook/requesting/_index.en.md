@@ -12,7 +12,7 @@ If you do not want to modify the content directly or you are not yet confident e
 
 First you cope the web address that points to the page that you would like to see changed to some extend. Then you click on the git icon on the bottom of that document to directly bring you to the GitHub repository in which all the content is stored.
 
-![](images/github.png) 
+{{< figure src="images/github.png" width=350px >}}
 
 Then you click on the issue tab.
 
