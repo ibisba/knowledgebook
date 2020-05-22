@@ -14,6 +14,9 @@ cd docs
 # Add changes to git.
 git add .
 
+# Add changes of content
+# cd ../ git add content?
+
 # Commit changes.
 msg="rebuilding site $(date)"
 if [ -n "$*" ]; then
