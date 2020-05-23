@@ -11,9 +11,11 @@ When you have created a project it is time to populate it with procedures, datas
 
 ### Populating your IBISBA project
 
-You can create the investigation, study and assay sections one by one using the manual procedure. However, when you are at the beginning of your project you can already to some level of detail plan your workflow. Which investigations are being performed what are the studies to be executed and which assays belong to that. To make the creation of the Investigation, Study and Assay more efficient we have developed the IBISBA Populator (iPop).
+You can create the investigation, study and assay sections one by one using the manual procedure. However, when you are at the beginning of your project you can already to some level of detail plan your workflow. Which investigations are being performed, what are the studies to be executed, and which assays belong to that. To make the creation of the Investigation, Study and Assay more efficient we have developed the IBISBA Populator (iPop).
 
 The template that can be used for the IBISBA Populator can be found [here](https://hub.ibisba.eu/data_files/36). You can download the excel file and modify the content (except for the headers) to your needs.
+
+To create an assay (and its containing study and investigation), you **must** assign it to a person or institution. Just enter the e-mail of the person or the name of the institution. They do not need to be known to IBISBA Hub.
 
 When you have completed the file you can upload it to the IBISBA Hub as a new data file. On how to upload data to the hub please have a look [here](https://ibisba.github.io/handbook/ibisba_hub/upload/). 
 
