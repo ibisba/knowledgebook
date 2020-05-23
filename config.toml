@@ -27,7 +27,7 @@ white_color = "#ffffff"
 font_family = "lato" # Choose font family from : https://fonts.google.com/
 
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/meqreyqe" # contact form works with : https://formspree.io
 
 ############################## social links ##############################
 #[[params.social]]
@@ -81,39 +81,24 @@ hasChildren = true
   weight = 3
   [[menu.main]]
   parent = "docs"
-  name = "Consortium"
-  url = "consortium"
+  name = "Protocols"
+  url = "protocols"
   weight = 4
   [[menu.main]]
   parent = "docs"
-  name = "Facilities"
-  url = "facilities"
+  name = "Standardisation"
+  url = "standardisation"
   weight = 5
   [[menu.main]]
   parent = "docs"
   name = "Handbook"
   url = "handbook"
-  weight = 7
-  [[menu.main]]
-  parent = "docs"
-  name = "Protocols"
-  url = "protocols"
-  weight = 8
-  [[menu.main]]
-  parent = "docs"
-  name = "Standardisation"
-  url = "standardisation"
-  weight = 9
-  [[menu.main]]
-  parent = "docs"
-  name = "Workpackages"
-  url = "workpackages"
-  weight = 10
+  weight = 6
   [[menu.main]]
   parent = "docs"
   name = "FAQ"
   url = "faq"
-  weight = 11
+  weight = 7
 
 ################################ English Language ######################
 [Languages.en]

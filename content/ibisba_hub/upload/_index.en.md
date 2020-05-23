@@ -1,9 +1,8 @@
 ---
-title: "Upload to the hub"
+title: "3.3 Upload to the hub"
 date: 2020-02-14T10:00:00+06:00
 lastmod: 2020-02-14T10:00:00+06:00
-weight: 1
-draft: false
+weight: 303
 ---
 
 ### Adding assets (Data, Models, SOPs, Presentations, Documents) to the Hub

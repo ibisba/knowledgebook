@@ -1,9 +1,9 @@
 ---
-title: "Management"
+title: "3.2 Hub management"
 date: 2020-02-14T10:00:00+06:00
 lastmod: 2020-02-14T10:00:00+06:00
-weight: 5
+weight: 302
 draft: false
 ---
 
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+Everything you need to know about management (Groups, Access, public / private)

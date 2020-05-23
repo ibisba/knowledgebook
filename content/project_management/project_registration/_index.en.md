@@ -1,21 +1,22 @@
 ---
-title: "Project registration"
+title: "2.1 Project registration"
 date: 2020-02-14T10:00:00+06:00
-icon: "ti-world"
-description: "Registering a project in IBISBA"
-#type : "docs"
-weigth : 2
+weight : 201
 ---
+
+After the TNA has been accepted it needs to be registered in the IBISBA Hub.
+In the hub all procedures, datasets and protocols can be registered and used as an internal resource for your project management.
+
 ### Step 1:
 
-Go to https://hub.ibisba.eu and click **"Log in"** to sign into your account
+To register the TNA go to https://hub.ibisba.eu and click **"Log in"** to sign into your account.
 
 ![](Picture1.png)
 
 
 ### Step 2:
 
-After logging in click on the **"Create"** tab and from the pull down menu select **"Project"** and a New Project page will open 
+After logging in click on the **"Create"** tab and from the pull down menu select **"Project"** and a New Project page will open.
 
 ![](Picture2.png)
 

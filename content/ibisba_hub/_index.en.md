@@ -4,7 +4,7 @@ date: 2020-02-14T10:00:00+06:00
 icon: "ti-world"
 description: "All topic related to the IBISBA Hub"
 type : "docs"
-weigth : 300
+weight : 300
 ---
 
 ### IBISBAHub is a key part of the IBISBA ecosystem of facilities  
@@ -30,4 +30,4 @@ Online portal for storing, sharing and launching workflows linked with related d
 [https://hub.ibisba.eu](https://hub.ibisba.eu/)
 
 
-![](Concept.png)
+![](./images/Concept.png)

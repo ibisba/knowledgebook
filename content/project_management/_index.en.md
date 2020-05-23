@@ -4,9 +4,5 @@ date: 2020-02-14T10:00:00+06:00
 icon: "ti-world"
 description: "Running a project in IBISBA"
 type : "docs"
-weigth : 200
+weight : 200
 ---
-
-### Project Management
-
-...

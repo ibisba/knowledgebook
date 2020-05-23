@@ -2,8 +2,7 @@
 title: "Modifying the handbook"
 date: 2020-02-14T10:00:00+06:00
 lastmod: 2020-02-14T10:00:00+06:00
-weight: 2
-draft: false
+weight: 2000
 ---
 
 To modify the content of a page you need to click on the GitHub icon at the bottom of such a document.
