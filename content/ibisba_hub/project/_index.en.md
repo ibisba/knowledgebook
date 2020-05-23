@@ -24,3 +24,5 @@ When you have uploaded your data file you go to the main screen of the project t
 It should automatically detect all excel files that are linked to this project. Then you can select the excel file that contains the project information to create the Investigation / Study and Assays.
 
 {{< figure src="images/populate.png" width=90% >}}
+
+When you click populate it will bring you back to the project overview and the Investigations, Studies and Assays are created / ordered according to the provided Excel file.
