@@ -1,6 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 draft: false
+weight: 10000
 ---
 
 {{< faq "Question 1?" >}}
