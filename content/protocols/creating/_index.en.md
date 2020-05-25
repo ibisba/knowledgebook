@@ -1,8 +1,8 @@
 ---
-title: "4.3 Creating protocols"
+title: "3.3 Creating protocols"
 date: 2020-02-14T10:00:00+06:00
 lastmod: 2020-03-27T10:00:00+06:00
-weight: 403
+weight: 303
 ---
 
 ### Minimal requirements and recommendations for IBISBA protocols
