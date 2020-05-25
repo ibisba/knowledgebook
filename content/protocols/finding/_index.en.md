@@ -7,4 +7,10 @@ weight: 301
 
 ### Finding a protocol
 
-<Explanation here>
+Finding a protocol is as easy as finding any other file. First you go to the protocol overview page by clicking browse and then protocols.
+
+{{< figure src="images/finding1.png" width=350px >}}
+
+There you see a list of available protocols and on the left panel you can filter on tags, projects, creators and different types. When you have found the protocol you can click on it to obtain more information about it. To view or download the protocol you have to access the protocol's page first and then click on Download or View content.
+
+{{< figure src="images/finding2.png" width=350px >}}
