@@ -1,7 +1,7 @@
 ---
-title: "2.1 Project registration"
+title: "2.3 Project registration"
 date: 2020-02-14T10:00:00+06:00
-weight : 201
+weight : 203
 ---
 
 After the TNA has been accepted it needs to be registered in the IBISBA Hub.
