@@ -1,5 +1,5 @@
 ---
-title: "2.3 Project registration"
+title: "Project registration"
 date: 2020-02-14T10:00:00+06:00
 weight : 203
 ---

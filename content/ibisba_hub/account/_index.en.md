@@ -1,5 +1,5 @@
 ---
-title: "2.1 Account creation"
+title: "Account creation"
 date: 2020-02-14T10:00:00+06:00
 lastmod: 2020-02-14T10:00:00+06:00
 weight: 201
