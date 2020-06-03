@@ -1,11 +1,15 @@
 ---
-title: "IBISBA Hub"
+title: "Project management"
 date: 2020-02-14T10:00:00+06:00
 icon: "ti-world"
-description: "All topic related to the IBISBA Hub"
+description: "All topic related to the project management"
 type : "docs"
-weight : 200
+weight : 201
 ---
+
+### Project management
+
+Workflow information <here?>
 
 ### IBISBAHub is a key part of the IBISBA ecosystem of facilities  
 
