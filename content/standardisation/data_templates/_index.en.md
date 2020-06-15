@@ -17,9 +17,11 @@ Information about data templates and formats used
 |                         | FASTQ                      | Text/gzip     |
 |                         | Excel                      | XML           |
 | Optimization and design | SBML V3                    | XML           |
+|                         | SBOL V2                    | XML           |
 | Molecule                | InChI string               | Text          |
 | Documents               | PDF                        | PDF           |
 |                         | Word                       |               |
 | Instructions            | protocols.io               |               |
 | Workflows               | CWL                        | JSON          |
 |                         | Knime                      |               |
+|                         | Galaxy                     |               |
