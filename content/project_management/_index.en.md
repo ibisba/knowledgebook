@@ -7,15 +7,13 @@ type : "docs"
 weight : 201
 ---
 
-# 1. Who is this section meant for?
- 
+### 1. Who is this section meant for?
 This section is meant for a facility manager or a user/researcher to understand the overall project workflow and project management via the use of IBISBAHub.
  
-# 2. How will this section help the reader?
+### 2. How will this section help the reader?
 This section of the handbook will provide stepwise instruction about how to use the IBISBAHub for end-to-end project and data management.
  
-# 3. What is the learning outcome/goal of a section
- 
+### 3. What is the learning outcome/goal of a section
 After reading through this section you will be able to register and create an account on the IBISBAHub. 
 Once the account is created you will then learn to register/create a project with stepwise instructions. Finally, you will learn how to populate your registered project and create the investigation, study and assay sections one by one using the manual procedure. 
  
@@ -23,22 +21,20 @@ You will also learn the alternative way to populate your project using the IBISB
 
 Apart from assigning or populating data to your project you will also learn to independently upload your data, workflows, data, SOPs, publication or any relevant documentation for the project. 
 
-# 4. Stepwise instructions
+### 4. Stepwise instructions
 
-- [Introduction to the Hub](ibisba_hub/_index.en.md)
-- [Account creation](account/_index.en.md)
-- [Upload/Register to the hub](upload/_index.en.md)
-- [Project registration](project_registration/_index.en.md)
-- [Project population](project_population/_index.en.md)
-- [Access rights](management/_index.en.md)
+- [Introduction to the Hub](ibisba_hub/)
+- [Account creation](account/)
+- [Upload/Register to the hub](upload/)
+- [Project registration](project_registration/)
+- [Project population](project_population/)
+- [Access rights](management/)
 
-# 5. Summary/Next Steps
-
+### 5. Summary/Next Steps
 We hope reading through this section has given you enough information to get yourself an account on the IBISBAHub and get started with creating your project and uploading/registering your data and other relevant documents.
  
-# 6. Frequently asked questions
- 
+### 6. Frequently asked questions
 STILL `TODO`.
  
-# 7. Related sections
+### 7. Related sections
 List sections that are related to this section with a brief indication why 
