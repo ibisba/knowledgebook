@@ -1,6 +1,7 @@
 ---
 title: "Project management"
-date: 2020-02-14T10:00:00+06:00
+date: 2020-02-14T10:00:00+02:00
+lastmod: 2020-06-18T16:00:00+02:00
 icon: "ti-world"
 description: "All topic related to the project management"
 type : "docs"
