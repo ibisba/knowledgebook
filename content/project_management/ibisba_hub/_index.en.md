@@ -26,25 +26,3 @@ Online portal for storing, sharing and launching workflows linked with related d
 [https://hub.ibisba.eu](https://hub.ibisba.eu/)
 
 ![](./images/Concept.png)
-
-### Registration
-
-Register to the IBISBAHub [https://hub.ibisba.eu]()
-
-![](Signup.png)
-
-Check your email for the confirmation link! 
-
-### Update your profile
-
-![](ToProfile.png)
-
-Update your profile information
-
-![](Profile.png)
-
-Update your knowledge and expertise so that we can find you back based on your skills
-
-![](KnowledgeExpertise.png)
-
-**When finished click update**
