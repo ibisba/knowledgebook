@@ -8,6 +8,8 @@ title = "IBISBA"
 # desable language
 disableLanguages = []
 publishDir = "docs"
+
+enableGitInfo = true
 ############################# Default Parameters ##########################
 [params]
 # logo is for all page
