@@ -1,8 +1,8 @@
 ---
-title: "Upload/Register to the hub"
+title: "Upload/Register to Hub"
 date: 2020-02-14T10:00:00+06:00
 lastmod: 2020-02-14T10:00:00+06:00
-weight: 203
+weight: 206
 ---
 
 ### Adding assets (Data, Models, SOPs, Presentations, Documents) to the Hub

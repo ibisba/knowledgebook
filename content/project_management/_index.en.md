@@ -25,11 +25,11 @@ Apart from assigning or populating data to your project you will also learn to i
 
 ### 4. Stepwise instructions
 
-- [Introduction to the Hub](ibisba_hub/)
+- [Introduction to Hub](ibisba_hub/)
 - [Account creation](account/)
-- [Upload/Register to the hub](upload/)
 - [Project registration](project_registration/)
 - [Project population](project_population/)
+- [Upload/Register to Hub](upload/)
 - [Access rights](management/)
 
 ### 5. Summary/Next Steps
