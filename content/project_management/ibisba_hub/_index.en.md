@@ -1,5 +1,5 @@
 ---
-title: "Introduction to the Hub"
+title: "Introduction to Hub"
 date: 2020-02-14T10:00:00+06:00
 lastmod: 2020-06-18T16:00:00+02:00
 weight: 202
