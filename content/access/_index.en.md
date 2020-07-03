@@ -29,11 +29,7 @@ Once proposals have been submitted, the TNA Administrator will check the eligibi
 
 
 - [Eligibility Criteria](Eligibility/)
-
-
-Platform & Offer
-
-Services provided and the facilities can be found on the website. TNA applicants should note that, at any given time, not all services on the website might be eligible for subsidised access. Moreover, in the case of multiple service requests, it is possible that applicants will be asked to provide co-funding to cover full project costs.
+- [Platform and Offer](Platform/)
 
 Ethics self-assessment checklist
 
