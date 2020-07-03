@@ -28,7 +28,7 @@ Caveat: in the event of project rejection, the project proposer will receive a s
 Once proposals have been submitted, the TNA Administrator will check the eligibility of the proposed access.
 
 
-- [Eligibility Criterion](procedure/Eligibility/)
+- [Eligibility Criteria](Eligibility/)
 
 
 Platform & Offer
