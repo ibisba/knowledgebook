@@ -5,7 +5,7 @@ lastmod: 2020-07-03T10:00:00+06:00
 icon: "ti-package"
 description: "TNA access procedure"
 type : "docs"
-weight: 200
+weight: 199
 ---
 
 ### 1.   Who is this section meant for
