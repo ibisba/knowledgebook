@@ -1,7 +1,7 @@
 ---
 title: "TNA Funding"
 date: 2020-02-14T10:00:00+06:00
-weight : 204
+weight : 205
 ---
 
 IBISBA will offer on-site services and remote services.
