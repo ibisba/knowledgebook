@@ -96,9 +96,14 @@ hasChildren = true
   weight = 6
   [[menu.main]]
   parent = "docs"
+  name = "Workflows"
+  url = "workflows"
+  weight = 7
+  [[menu.main]]
+  parent = "docs"
   name = "FAQ"
   url = "faq"
-  weight = 7
+  weight = 8
 
 ################################ English Language ######################
 [Languages.en]
