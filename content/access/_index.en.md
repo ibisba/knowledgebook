@@ -5,7 +5,7 @@ lastmod: 2020-07-03T10:00:00+06:00
 icon: "ti-package"
 description: "TNA access procedure"
 type : "docs"
-weight: 201
+weight: 200
 ---
 
 ### 1.   Who is this section meant for
@@ -26,7 +26,6 @@ A one stage application process with cut-off dates will be applied to gather and
 Caveat: in the event of project rejection, the project proposer will receive a short rejection statement, but will not receive extensive arguments supporting the decision. In certain circumstances, IBISBA administrators will directly contact project PIs to discuss submission at a later stage, although this is not mandatory and is left to the discretion of IBISBA administrators.
 
 Once proposals have been submitted, the TNA Administrator will check the eligibility of the proposed access.
-
 
 - [Eligibility Criteria](Eligibility/)
 - [Platform and Offer](Platform/)
