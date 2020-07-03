@@ -5,7 +5,7 @@ lastmod: 2020-07-03T10:00:00+06:00
 icon: "ti-package"
 description: "TNA access procedure"
 type : "docs"
-weight: 100
+weight: 201
 ---
 
 ### 1.   Who is this section meant for
@@ -30,56 +30,11 @@ Once proposals have been submitted, the TNA Administrator will check the eligibi
 
 - [Eligibility Criteria](Eligibility/)
 - [Platform and Offer](Platform/)
+- [Ethics Self-Assessment Checklist](Ethics/)
+- [TNA Funding](Funding/)
+- [Publication and Acknowledgement](Publication/)
+- [Post Access Requirements](Post_Access/)
 
-Ethics self-assessment checklist
-
-Users will have to answer questions related to ethics issues associated with their proposals, making sure they cover all the topics illustrated in the ethics self-assessment checklist.
-
-
-TNA funding
-
-IBISBA will offer on-site services and remote services.
-
-On-Site Services
-It means physical visits, by one user identified in the proposal. The IBISBA partner hosting the TNA visit will contribute to the cost of travelling/living expenses. As mentioned above, IBISBA provides subsidies to users. However, prolonged work stays at facilities or multiple service offers may involve co-funding by users.
-
-Remote Services
-It means access to laboratory services and facilities/equipment. Users send their samples for analysis, but do not physically visit the site. The site manager will be responsible for making measurements and analysis.
-
-N.B.: Obviously, remote access is not expected to incur travel/living expenses. However, in order to ease project feasibility, on-site presence can be foreseen between the applicant and the welcoming host. Related costs will be supported by users.
-
-Travel and subsistence
-
-IBISBA will subsidise the costs of travel and subsistence incurred during physical site visits. Rates will vary depending on the guest institution and the country where the TNA site is located and on the duration of the stay. The contribution to subsistence costs (i.e. accommodation, meals, local transport such as buses and taxis, etc.) and may not cover all costs.
-
-Travel costs will be taken care of OR reimbursed by the guest institution, following their internal rule. In all cases, reimbursement of expenses will favour the most cost efficient option. For further information, please check the table enclosed at the end of this section.
-
-Ineligible expenses
-
-IBISBA will not subsidise the cost of visas, passports, travel insurance, personal shopping, tourism or any other costs related to personal convenience. For on-site services, users are fully responsible for ensuring that they have insurance to cover accidents, illness and other events during their stay at the host institution.
-
-
-Obligation to Publish Results/Acknowledgement
-
-Obligation to Publish Results
-
-Transnational Access within IBISBA is an activity subsidised by the European Commission. Therefore, in accordance with rules that apply to the H2020 programme, users are expected to ensure that data generated through TNA is made FAIR and that work is published in open access journals or made available on an open access platform (e.g. open archives)*. Moreover, in compliance with IBISBA rules, TNA users will be required to supply a project report (see below).
-
-*in accordance with European Commission regulations, SMEs are exempted from this rule.
-
-Acknowledgement
-Acknowledgement of the access provided to users must be included in the publication, specifying that the project leading to the publication was subsidised by the IBISBA project. The mandatory statement is:
-
-e.g.: partial funding of this was provided by the Transnational Access to Research Infrastructures scheme operated by the IBISBA project, which is funded by the H2020 Framework Programme of the European Commission (grant agreement n. 730976)
-
-Additionally, the host partner organisation should be acknowledged, according to host partner user and requirements.
-
-Intellectual Property Rules for SMEs
-SMEs are covered by the specific European Commission regulation. Remains for them the obligation to acknowledge the use of network and infrastructure, no obligation to publish for open access, and an optional participation in success stories.
-
-
-Post Access Requirements
-It will be mandatory for users to submit a full project report following IBISBA guidelines. In particular, this report will require users to clearly define the input and output parameters that are associated with their project. Users will also be required to complete a satisfaction survey and supply all documents required for reimbursement of costs. 
 
 ### 5.   Summary/Next Steps
 Subsidised access to IBISBA R&D services requires that users submit project proposals that are well aligned with the aims of IBISBA and meet technical, scientific and ethical requirements. Once users have drafted their proposal, they need to create an account on the website submission page and upload the proposal on the electronic submission system.  
