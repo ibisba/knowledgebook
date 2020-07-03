@@ -5,7 +5,6 @@ lastmod: 2020-07-03T10:00:00+06:00
 weight: 203
 ---
 
-#### Eligibility Criteria
 
 ## Transnationality
 Obligation to use infrastructure services in a member state or than that of one's usual place of work (user nationality is irrelevant). For multiple services (max 3), use of national facilities may be possible, but these will not be subsidised by IBISBA.
