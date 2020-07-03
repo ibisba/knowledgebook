@@ -1,7 +1,7 @@
 ---
-title: " Obligation to Publish Results and Acknowledgement"
+title: " Publication and Acknowledgement"
 date: 2020-02-14T10:00:00+06:00
-weight : 204
+weight : 20
 ---
 
 
