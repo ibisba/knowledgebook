@@ -1,8 +1,9 @@
 ---
 title: "Finding a Workflow"
-date: 2020-02-14T10:00:00+06:00
-lastmod: 2020-02-14T10:00:00+06:00
+date: 2020-06-24T16:18:19+02:00
+lastmod: 2020-07-03T12:51:36+02:00
 weight: 2000
+maintainedby: "Melchior du Lac"
 ---
 
 To find a workflow, visit the following page: https://hub.ibisba.eu/workflows, also found as an entry in the "Browse" selection as shown below:
