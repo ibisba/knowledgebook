@@ -27,12 +27,12 @@ Caveat: in the event of project rejection, the project proposer will receive a s
 
 Once proposals have been submitted, the TNA Administrator will check the eligibility of the proposed access.
 
-- [Eligibility Criteria](Eligibility/)
-- [Platform and Offer](Platform/)
-- [Ethics Self-Assessment Checklist](Ethics/)
-- [TNA Funding](Funding/)
-- [Publication and Acknowledgement](Publication/)
-- [Post Access Requirements](Post_Access/)
+- [Eligibility Criteria](eligibility/)
+- [Platform and Offer](platform/)
+- [Ethics Self-Assessment Checklist](ethics/)
+- [TNA Funding](funding/)
+- [Publication and Acknowledgement](publication/)
+- [Post Access Requirements](post_access/)
 
 
 ### 5.   Summary/Next Steps
