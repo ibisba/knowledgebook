@@ -74,11 +74,11 @@ hasChildren = true
   name = "Project management"
   url = "project_management"
   weight = 2
-  [[menu.main]]
-  parent = "docs"
-  name = "IBISBA Hub"
-  url = "ibisba_hub"
-  weight = 3
+  #[[menu.main]]
+  #parent = "docs"
+  #name = "IBISBA Hub"
+  #url = "ibisba_hub"
+  #weight = 3
   [[menu.main]]
   parent = "docs"
   name = "Protocols"
