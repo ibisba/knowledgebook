@@ -1,7 +1,7 @@
 ---
 title: "Upload/Register to Hub"
 date: 2020-02-14T10:00:00+06:00
-lastmod: 2020-02-14T10:00:00+06:00
+lastmod: 2020-07-09T11:49:00+02:00
 weight: 206
 ---
 
@@ -52,4 +52,5 @@ When you are ready you can click ***Create*** and it will show you a final confi
 
 {{< figure src="images/add_data_11.png" width=350px >}}
 
-
+### Screencast
+{{< youtube QTUlnkT2PhQ >}}
