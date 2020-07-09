@@ -1,6 +1,7 @@
 ---
 title: "Project registration"
 date: 2020-02-14T10:00:00+06:00
+lastmod: 2020-07-09T11:48:00+02:00
 weight : 204
 ---
 
@@ -67,3 +68,6 @@ Once the Project is created you can click on the **"Actions"** tab and select: *
   2. Click the **"Confirm changes"** button
 
 ![](Picture6.png)
+
+### Screencast
+{{< youtube iTir1WfohN8 >}}

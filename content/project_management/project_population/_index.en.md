@@ -1,6 +1,7 @@
 ---
 title: "Project population"
 date: 2020-02-14T10:00:00+06:00
+lastmod: 2020-07-09T11:47:00+02:00
 weight : 205
 ---
 
@@ -26,3 +27,6 @@ It should automatically detect all excel files that are linked to this project. 
 {{< figure src="images/populate.png" width=90% >}}
 
 When you click populate it will bring you back to the project overview and the Investigations, Studies and Assays are created / ordered according to the provided Excel file.
+
+### Screencast
+{{< youtube 68D1j5MwOnw >}}
