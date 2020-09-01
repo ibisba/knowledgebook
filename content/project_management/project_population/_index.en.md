@@ -16,7 +16,7 @@ The template that can be used for the IBISBA Populator can be found [here](https
 
 To assign an assay (and its containing study and investigation) to a person or institution. Just enter the e-mail of the person or the name of the institution. They do not need to be known to IBISBA Hub.
 
-When you have completed the file you can upload it to the IBISBA Hub as a new data file. On how to upload data to the hub please have a look [here](https://ibisba.github.io/handbook/ibisba_hub/project_management/upload/).
+When you have completed the file you can upload it to the IBISBA Hub as a new data file. On how to upload data to the hub please have a look [here](https://ibisba.github.io/handbook/project_management/upload/).
 
 When you have uploaded your data file you go to the main screen of the project to which this file was associated with and you go to the IBISBA Populator. 
 
