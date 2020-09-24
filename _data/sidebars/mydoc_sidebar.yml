@@ -32,6 +32,10 @@ entries:
       url: /eligibility_criteria.html
       output: web, pdf
 
+    - title: Projects
+      url: /projects.html
+      output: web, pdf
+
     - title: Ethics Self-Assessment Checklist
       url: /ethics.html
       output: web, pdf
@@ -44,6 +48,10 @@ entries:
       url: /platform_and_offer.html
       output: web, pdf
 
+    - title: One Stop Shop
+      url: /one_stop_shop.html
+      output: web, pdf
+
     - title: Post Access Requirements
       url: /postaccess_requirements.html
       output: web, pdf
@@ -54,6 +62,22 @@ entries:
 
     - title: Publication and Acknowledgement
       url: /publication_and_acknowledgement.html
+      output: web, pdf
+
+  - title: IBISBA Management
+    output: web, pdf
+    folderitems:
+
+    - title: Business Process Transfer
+      url: /business_process_transfer.html
+      output: web, pdf
+
+    - title: Public private policies
+      url: /public_private_policies.html
+      output: web, pdf
+
+    - title: Licensing policies
+      url: /licensing_policies.html
       output: web, pdf
 
   - title: Handbook
@@ -101,7 +125,11 @@ entries:
       output: web, pdf
 
     - title: Upload & Register to the hub
-      url: upload_register_hub.html
+      url: /upload_register_hub.html
+      output: web, pdf
+
+    - title: Tascu
+      url: /tascu.html
       output: web, pdf
 
   - title: Protocols
@@ -124,6 +152,14 @@ entries:
       url: /creating_protocols.html
       output: web, pdf
 
+    - title: Storage of Biological Material
+      url: /storage_of_biological_material.html
+      output: web, pdf
+
+    - title: Metaprotocols
+      url: /metaprotocols.html
+      output: web, pdf
+
   - title: Standardisation
     output: web, pdf
     folderitems:
@@ -137,9 +173,12 @@ entries:
         output: web, pdf
 
       - title: Tools
-        url: tools_used_by_ibisba.html
+        url: /tools_used_by_ibisba.html
         output: web, pdf
 
+      - title: Data management
+        url: /data_management.html
+        output: web, pdf
 
 
   - title: Workflows
@@ -152,4 +191,8 @@ entries:
 
     - title: Galaxy SynBioCAD Platform
       url: /galaxy_synbiocad.html
+      output: web, pdf
+
+    - title: BTL workflow
+      url: /btl_workflow.html
       output: web, pdf

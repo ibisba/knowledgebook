@@ -15,10 +15,43 @@
 
 
 {
+"title": "Access rights",
+"tags": "hub",
+"keywords": "",
+"url": "hub_access_and_rights.html",
+"summary": ""
+}
+,
+
+
+
+{
 "title": "Account creation",
 "tags": "hub",
 "keywords": "",
 "url": "hub_account_creation.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "BTL Workflow",
+"tags": "workflow",
+"keywords": "",
+"url": "btl_workflow.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Business process transfer",
+"tags": "management",
+"keywords": "",
+"url": "business_process_transfer.html",
 "summary": ""
 }
 ,
@@ -41,6 +74,17 @@
 "tags": "protocols",
 "keywords": "",
 "url": "curating_protocols.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Data management",
+"tags": "tools",
+"keywords": "",
+"url": "data_management.html",
 "summary": ""
 }
 ,
@@ -160,10 +204,21 @@
 
 
 {
-"title": "Access rights",
-"tags": "hub",
+"title": "Licensing policies",
+"tags": "management",
 "keywords": "",
-"url": "hub_access_and_rights.html",
+"url": "licensing_policies.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Metaprotocols",
+"tags": "protocols",
+"keywords": "",
+"url": "metaprotocols.html",
 "summary": ""
 }
 ,
@@ -175,6 +230,17 @@
 "tags": "handbook",
 "keywords": "",
 "url": "modifying_the_handbook.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "One stop shop",
+"tags": "access",
+"keywords": "",
+"url": "one_stop_shop.html",
 "summary": ""
 }
 ,
@@ -217,17 +283,6 @@
 
 
 {
-"title": "Project workflow",
-"tags": "hub",
-"keywords": "",
-"url": "project_workflow.html",
-"summary": ""
-}
-,
-
-
-
-{
 "title": "Project population",
 "tags": "hub",
 "keywords": "",
@@ -243,6 +298,28 @@
 "tags": "hub",
 "keywords": "",
 "url": "hub_project_registration.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Projects",
+"tags": "access",
+"keywords": "release notes, announcements, what's new, new features",
+"url": "projects.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Public / private policies",
+"tags": "management",
+"keywords": "",
+"url": "public_private_policies.html",
 "summary": ""
 }
 ,
@@ -283,6 +360,28 @@
 ,
 
 
+
+
+
+{
+"title": "Storage of biological material",
+"tags": "protocols",
+"keywords": "",
+"url": "storage_of_biological_material.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "TaSCu",
+"tags": "hub",
+"keywords": "",
+"url": "tascu.html",
+"summary": ""
+}
+,
 
 
 
