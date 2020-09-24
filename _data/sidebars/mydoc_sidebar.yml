@@ -1,0 +1,155 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: IBISBA Handbook
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Access
+    output: web, pdf
+    folderitems:
+
+    - title: Transnational Access
+      url: /tna_access.html
+      output: web, pdf
+      type: homepage
+
+    - title: Eligibility Criteria
+      url: /eligibility_criteria.html
+      output: web, pdf
+
+    - title: Ethics Self-Assessment Checklist
+      url: /ethics.html
+      output: web, pdf
+
+    - title: TNA funding
+      url: /funding.html
+      output: web, pdf
+
+    - title: Platform and offer
+      url: /platform_and_offer.html
+      output: web, pdf
+
+    - title: Post Access Requirements
+      url: /postaccess_requirements.html
+      output: web, pdf
+
+    - title: Procedure
+      url: /procedure.html
+      output: web, pdf
+
+    - title: Publication and Acknowledgement
+      url: /publication_and_acknowledgement.html
+      output: web, pdf
+
+  - title: Handbook
+    output: web, pdf
+    folderitems:
+
+    - title: Modifying
+      url: /modifying_the_handbook.html
+      output: web, pdf
+
+    - title: Requesting changes
+      url: /requesting_changes_handbook.html
+      output: web, pdf
+
+  - title: Hub management
+    output: web, pdf
+    folderitems:
+
+    - title: Hub management
+      url: /hub_management.html
+      output: web, pdf
+
+    - title: Introduction to the Hub
+      url: /hub_introduction.html
+      output: web, pdf
+
+    - title: Account creation
+      url: /hub_account_creation.html
+      output: web, pdf
+
+    - title: Access rights
+      url: /hub_access_and_rights.html
+      output: web, pdf
+
+    - title: Project workflow
+      url: /project_workflow.html
+      output: web, pdf
+
+    - title: Project population
+      url: /hub_project_population.html
+      output: web, pdf
+
+    - title: Project registration
+      url: /hub_project_registration.html
+      output: web, pdf
+
+    - title: Upload & Register to the hub
+      url: upload_register_hub.html
+      output: web, pdf
+
+  - title: Protocols
+    output: web, pdf
+    folderitems:
+
+    - title: Sharing protocols
+      url: /sharing_protocols.html
+      output: web, pdf
+
+    - title: Finding protocols
+      url: /finding_protocols.html
+      output: web, pdf
+
+    - title: Curating protocols
+      url: /curating_protocols.html
+      output: web, pdf
+
+    - title: Creating protocols
+      url: /creating_protocols.html
+      output: web, pdf
+
+  - title: Standardisation
+    output: web, pdf
+    folderitems:
+
+      - title: Data templates
+        url: /data_templates_formats.html
+        output: web, pdf
+
+      - title: terminology
+        url: /terminology.html
+        output: web, pdf
+
+      - title: Tools
+        url: tools_used_by_ibisba.html
+        output: web, pdf
+
+
+
+  - title: Workflows
+    output: web, pdf
+    folderitems:
+
+    - title: Finding a workflow
+      url: /finding_workflow.html
+      output: web, pdf
+
+    - title: Galaxy SynBioCAD Platform
+      url: /galaxy_synbiocad.html
+      output: web, pdf

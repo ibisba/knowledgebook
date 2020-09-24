@@ -1,0 +1,373 @@
+[
+
+
+
+
+{
+"title": "Transnational Access",
+"tags": "access",
+"keywords": "release notes, announcements, what's new, new features",
+"url": "tna_access.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Account creation",
+"tags": "hub",
+"keywords": "",
+"url": "hub_account_creation.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Creating protocols",
+"tags": "protocols",
+"keywords": "",
+"url": "creating_protocols.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Curating protocols",
+"tags": "protocols",
+"keywords": "",
+"url": "curating_protocols.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Data templates and formats",
+"tags": "standardisationtemplatesformats",
+"keywords": "",
+"url": "data_templates_formats.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Eligibility Criteria",
+"tags": "access",
+"keywords": "",
+"url": "eligibility_criteria.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Ethics Self-Assessment Checklist",
+"tags": "access",
+"keywords": "",
+"url": "ethics.html",
+"summary": ""
+}
+,
+
+
+
+
+
+{
+"title": "Finding protocols",
+"tags": "protocols",
+"keywords": "",
+"url": "finding_protocols.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Finding a Workflow",
+"tags": "workflow",
+"keywords": "",
+"url": "finding_workflow.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "TNA funding",
+"tags": "access",
+"keywords": "",
+"url": "funding.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Galaxy SynBioCAD Platform",
+"tags": "workflowgalaxy",
+"keywords": "",
+"url": "galaxy_synbiocad.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Hub management",
+"tags": "hub",
+"keywords": "",
+"url": "hub_management.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Introduction to the Hub",
+"tags": "hub",
+"keywords": "",
+"url": "hub_introduction.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "IBISBA 1.0 Handbook",
+"tags": "",
+"keywords": "ibisba handbook",
+"url": "index.html",
+"summary": "This is an IBISBA information resource in which you can find documentation related to a wide variety of aspects within IBISBA."
+}
+,
+
+
+
+{
+"title": "Access rights",
+"tags": "hub",
+"keywords": "",
+"url": "hub_access_and_rights.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Modifying the handbook",
+"tags": "handbook",
+"keywords": "",
+"url": "modifying_the_handbook.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Platform and offer",
+"tags": "access",
+"keywords": "",
+"url": "platform_and_offer.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Post Access Requirements",
+"tags": "access",
+"keywords": "",
+"url": "postaccess_requirements.html",
+"summary": ""
+}
+,
+
+
+
+
+
+{
+"title": "Procedure",
+"tags": "access",
+"keywords": "",
+"url": "procedure.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Project workflow",
+"tags": "hub",
+"keywords": "",
+"url": "project_workflow.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Project population",
+"tags": "hub",
+"keywords": "",
+"url": "hub_project_population.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Project registration",
+"tags": "hub",
+"keywords": "",
+"url": "hub_project_registration.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Publication and Acknowledgement",
+"tags": "access",
+"keywords": "",
+"url": "publication_and_acknowledgement.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Requesting changes",
+"tags": "handbook",
+"keywords": "",
+"url": "requesting_changes_handbook.html",
+"summary": ""
+}
+,
+
+
+
+
+
+{
+"title": "Sharing protocols",
+"tags": "protocols",
+"keywords": "",
+"url": "sharing_protocols.html",
+"summary": ""
+}
+,
+
+
+
+
+
+{
+"title": "Terminology",
+"tags": "standardisationterminology",
+"keywords": "",
+"url": "terminology.html",
+"summary": ""
+}
+,
+
+
+
+
+
+
+
+{
+"title": "Tools used by IBISBA",
+"tags": "tools",
+"keywords": "",
+"url": "tools_used_by_ibisba.html",
+"summary": ""
+}
+,
+
+
+
+
+
+
+
+{
+"title": "Upload &amp; Register to the hub",
+"tags": "hub",
+"keywords": "",
+"url": "upload_register_hub.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "",
+"tags": "",
+"keywords": "",
+"url": "assetscssstyle.css",
+"summary": ""
+}
+,
+
+
+
+
+
+{
+"title": "Sample post",
+"tags": "newsgetting_started",
+"keywords": "",
+"url": "samplepost.html",
+"summary": "This is some summary frontmatter for my sample post."
+}
+,
+
+
+{
+"title": "Welcome to Jekyll!",
+"tags": "news",
+"keywords": "",
+"url": "myupdate.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Test post from last year",
+"tags": "news",
+"keywords": "",
+"url": "test-post-from-last-year.html",
+"summary": ""
+}
+
+
+
+]

@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="keywords" content="access,  release notes, announcements, what's new, new features">
+<title>Transnational Access | IBISBA 1.0 Handbook</title>
+<link rel="stylesheet" href="css/syntax.css">
+
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<!--<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">-->
+<link rel="stylesheet" href="css/modern-business.css">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="css/customstyles.css">
+<link rel="stylesheet" href="css/boxshadowproperties.css">
+<!-- most color styles are extracted out to here -->
+<link rel="stylesheet" href="css/theme-blue.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="js/jquery.navgoco.min.js"></script>
+
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<!-- Anchor.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js"></script>
+<script src="js/toc.js"></script>
+<script src="js/customscripts.js"></script>
+
+<link rel="shortcut icon" href="images/favicon.ico">
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="handbook" href="http://localhost:4000/feed.xml">
+
+    <script>
+        $(document).ready(function() {
+            // Initialize navgoco with default options
+            $("#mysidebar").navgoco({
+                caretHtml: '',
+                accordion: true,
+                openClass: 'active', // open
+                save: false, // leave false or nav highlighting doesn't work right
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 400,
+                    easing: 'swing'
+                }
+            });
+
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', false);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', true);
+            });
+
+        });
+
+    </script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    <script>
+        $(document).ready(function() {
+            $("#tg-sb-link").click(function() {
+                $("#tg-sb-sidebar").toggle();
+                $("#tg-sb-content").toggleClass('col-md-9');
+                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-icon").toggleClass('fa-toggle-on');
+                $("#tg-sb-icon").toggleClass('fa-toggle-off');
+            });
+        });
+    </script>
+    
+
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container topnavlinks">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="fa fa-home fa-lg navbar-brand" href="index.html">&nbsp;<span class="projectTitle"> IBISBA 1.0 Handbook</span></a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <!-- toggle sidebar button -->
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li>
+                <!-- entries without drop-downs appear here -->
+
+
+
+
+                
+                
+                
+                <li><a href="http://github.com/ibisba/handbook" target="_blank" rel="noopener">GitHub</a></li>
+                
+                
+                
+                <!-- entries with drop-downs appear here -->
+                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
+                
+                
+			<li>
+
+
+
+  <a class="email" title="Submit feedback" href="#" onclick="javascript:window.location='mailto:jasper.koehorst@wur.nl?subject=IBISBA 1.0 Handbook feedback&body=I have some feedback about the Transnational Access page: ' + window.location.href;"><i class="fa fa-envelope-o"></i> Feedback</a>
+
+</li>
+
+		
+                <!--comment out this block if you want to hide search-->
+                <li>
+                    <!--start search-->
+                    <div id="search-demo-container">
+                        <input type="text" id="search-input" placeholder="search...">
+                        <ul id="results-container"></ul>
+                    </div>
+                    <script src="js/jekyll-search.js" type="text/javascript"></script>
+                    <script type="text/javascript">
+                            SimpleJekyllSearch.init({
+                                searchInput: document.getElementById('search-input'),
+                                resultsContainer: document.getElementById('results-container'),
+                                dataSource: 'search.json',
+                                searchResultTemplate: '<li><a href="{url}" title="Transnational Access">{title}</a></li>',
+                    noResultsText: 'No results found.',
+                            limit: 10,
+                            fuzzy: true,
+                    })
+                    </script>
+                    <!--end search-->
+                </li>
+            </ul>
+        </div>
+        </div>
+        <!-- /.container -->
+</nav>
+
+<!-- Page Content -->
+<div class="container">
+  <div id="main">
+    <!-- Content Row -->
+    <div class="row">
+        
+        
+            <!-- Sidebar Column -->
+            <div class="col-md-3" id="tg-sb-sidebar">
+                
+
+<ul id="mysidebar" class="nav">
+  <li class="sidebarTitle">IBISBA Handbook 1.0</li>
+  
+  
+  
+      
+  
+  <li>
+      <a title="Access" href="#">Access</a>
+      <ul>
+          
+          
+          
+          <li class="active"><a title="Transnational Access" href="tna_access.html">Transnational Access</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Eligibility Criteria" href="eligibility_criteria.html">Eligibility Criteria</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Ethics Self-Assessment Checklist" href="ethics.html">Ethics Self-Assessment Checklist</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="TNA funding" href="funding.html">TNA funding</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Platform and offer" href="platform_and_offer.html">Platform and offer</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Post Access Requirements" href="postaccess_requirements.html">Post Access Requirements</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Procedure" href="procedure.html">Procedure</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Publication and Acknowledgement" href="publication_and_acknowledgement.html">Publication and Acknowledgement</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Handbook" href="#">Handbook</a>
+      <ul>
+          
+          
+          
+          <li><a title="Modifying" href="modifying_the_handbook.html">Modifying</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Requesting changes" href="requesting_changes_handbook.html">Requesting changes</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Hub management" href="#">Hub management</a>
+      <ul>
+          
+          
+          
+          <li><a title="Hub management" href="hub_management.html">Hub management</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Introduction to the Hub" href="hub_introduction.html">Introduction to the Hub</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Account creation" href="hub_account_creation.html">Account creation</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Access rights" href="hub_access_and_rights.html">Access rights</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Project workflow" href="project_workflow.html">Project workflow</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Project population" href="hub_project_population.html">Project population</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Project registration" href="hub_project_registration.html">Project registration</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Upload & Register to the hub" href="upload_register_hub.html">Upload & Register to the hub</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Protocols" href="#">Protocols</a>
+      <ul>
+          
+          
+          
+          <li><a title="Sharing protocols" href="sharing_protocols.html">Sharing protocols</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Finding protocols" href="finding_protocols.html">Finding protocols</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Curating protocols" href="curating_protocols.html">Curating protocols</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Creating protocols" href="creating_protocols.html">Creating protocols</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Standardisation" href="#">Standardisation</a>
+      <ul>
+          
+          
+          
+          <li><a title="Data templates" href="data_templates_formats.html">Data templates</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="terminology" href="terminology.html">terminology</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Tools" href="tools_used_by_ibisba.html">Tools</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Workflows" href="#">Workflows</a>
+      <ul>
+          
+          
+          
+          <li><a title="Finding a workflow" href="finding_workflow.html">Finding a workflow</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Galaxy SynBioCAD Platform" href="galaxy_synbiocad.html">Galaxy SynBioCAD Platform</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+      
+      <!-- if you aren't using the accordion, uncomment this block:
+         <p class="external">
+             <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+         </p>
+         -->
+</ul>
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
+
+            </div>
+            
+        
+
+        <!-- Content Column -->
+        <div class="col-md-9" id="tg-sb-content">
+            <div class="post-header">
+   <h1 class="post-title-main">Transnational Access</h1>
+</div>
+
+
+
+<div class="post-content">
+
+   
+
+    
+    
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+})
+  
+});
+</script>
+
+<div id="toc"></div>
+
+    
+
+
+    
+
+    <a target="_blank" rel="noopener" href="https://github.com/ibisba/handbook/blob/gh-pages/pages/access/access.md" class="btn btn-default githubEditButton" role="button"><i class="fa fa-github fa-lg"></i> Edit me</a>
+
+    
+
+   <h3 id="1---who-is-this-section-meant-for">1.   Who is this section meant for</h3>
+
+<p>All researchers and SMEs working in EU Member States (EU-28), but also to Associated Countries and Third Countries. You can also check the bi-lateral Science &amp; Technology (S&amp;T) agreements signed by the European Commission with a number of individual countries.</p>
+<h3 id="2---how-will-this-section-help-the-user">2.   How will this section help the user</h3>
+
+<p>Users will get a thorough description of the application procedure in order to successfully apply for subsidised access to the IBISBA R&amp;D services.</p>
+<h3 id="3---what-is-the-learning-outcomegoal-of-a-section">3.   What is the learning outcome/goal of a section</h3>
+
+<p>Users will be instructed on the application procedure, including general conditions and eligibility criteria, to get subsidised access to the IBISBA research infrastructure.</p>
+<h3 id="4---stepwise-instructions">4.   Stepwise instructions</h3>
+
+<p>Subsidised access is provided ONLY during Open Calls, during which applicants are requested to submit a full proposal through the IBISBA website. This will automatically be sent to the TNA Administrator and go through different filters in order to be selected, discarded or saved for consultancy (and be presented to another call).</p>
+
+<p>A one stage application process with cut-off dates will be applied to gather and select proposals.</p>
+
+<p>Caveat: in the event of project rejection, the project proposer will receive a short rejection statement, but will not receive extensive arguments supporting the decision. In certain circumstances, IBISBA administrators will directly contact project PIs to discuss submission at a later stage, although this is not mandatory and is left to the discretion of IBISBA administrators.</p>
+
+<p>Once proposals have been submitted, the TNA Administrator will check the eligibility of the proposed access.</p>
+
+<ul>
+  <li><a href="eligibility/">Eligibility Criteria</a></li>
+  <li><a href="platform/">Platform and Offer</a></li>
+  <li><a href="ethics/">Ethics Self-Assessment Checklist</a></li>
+  <li><a href="funding/">TNA Funding</a></li>
+  <li><a href="publication/">Publication and Acknowledgement</a></li>
+  <li><a href="post_access/">Post Access Requirements</a></li>
+</ul>
+
+<h3 id="5---summarynext-steps">5.   Summary/Next Steps</h3>
+<p>Subsidised access to IBISBA R&amp;D services requires that users submit project proposals that are well aligned with the aims of IBISBA and meet technical, scientific and ethical requirements. Once users have drafted their proposal, they need to create an account on the website submission page and upload the proposal on the electronic submission system.</p>
+
+<h3 id="6--frequently-asked-questions">6.  Frequently asked questions</h3>
+
+<p>Is it possible to modify the proposal after the submission?
+Yes, it is, as long as changes are applied before the submission deadline.</p>
+
+<p>Can I apply to another Open Call even though I have already been selected previously?
+Unfortunately, it is not possible to apply for another Call if the user has already got access to the infrastructure. Otherwise, one can apply as many times as they want.</p>
+
+<p>Will proposals requesting multiple services be prioritised in the selection process?
+The selection process takes into account multiple aspects of the proposals, e.g. the scientific impact and the feasibility, therefore, multi-service requests are encouraged, but they are not a preferential way.</p>
+
+<h3 id="7--related-sections">7.  Related sections</h3>
+<p>Guide for applicants. It helps users throughout the process of filling the proposal for Open Calls.</p>
+
+
+    <div class="tags">
+        
+        <b>Tags: </b>
+        
+        
+        
+        
+        
+    </div>
+
+
+
+
+</div>
+
+<hr class="shaded"/>
+
+<footer>
+            <div class="row">
+                <div class="col-lg-12 footer">
+               &copy;2020 IBISBA 1.0. All rights reserved. <br />
+<span>Page last updated:</span> September 24, 2020<br/> Site last generated: Sep 24, 2020 <br />
+<p><img src="images/company_logo.png" alt="Company logo"/></p>
+                </div>
+            </div>
+</footer>
+
+
+        </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+</div>
+<!-- /#main -->
+    </div>
+
+</body>
+
+</html>
