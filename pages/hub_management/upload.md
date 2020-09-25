@@ -10,6 +10,11 @@ folder: hub_management
 maintainedby : "Munazah Andrabi"
 ---
 
+### Screencast
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QTUlnkT2PhQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 ### Adding assets (Data, Models, SOPs, Presentations, Documents) to the Hub
 To add a data file to IBISBA Hub, select Create from the menu bar, and select the appropriate asset from the drop down menu.
 
@@ -57,7 +62,3 @@ You can also associate other items this data file such as publications or other 
 When you are ready you can click ***Create*** and it will show you a final confirmation with the data visibility and who can access the files.
 
 {% include image.html file="/add_data_11.png" alt="" caption="" %}
-
-### Screencast
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QTUlnkT2PhQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

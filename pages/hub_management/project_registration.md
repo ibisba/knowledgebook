@@ -9,6 +9,10 @@ permalink: hub_project_registration.html
 folder: hub_management
 ---
 
+### Screencast
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iTir1WfohN8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 After the TNA has been accepted it needs to be registered in the IBISBA Hub.
 In the hub all procedures, datasets and protocols can be registered and used as an internal resource for your project management.
 
@@ -71,7 +75,3 @@ Once the Project is created you can click on the **"Actions"** tab and select: *
   2. Click the **"Confirm changes"** button
 
 {% include image.html file="/Picture6.png" alt="" caption="" %}
-
-### Screencast
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iTir1WfohN8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

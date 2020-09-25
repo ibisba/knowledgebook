@@ -32,8 +32,8 @@ entries:
       url: /eligibility_criteria.html
       output: web, pdf
 
-    - title: Projects
-      url: /projects.html
+    - title: Platform and offer
+      url: /platform_and_offer.html
       output: web, pdf
 
     - title: Ethics Self-Assessment Checklist
@@ -44,24 +44,16 @@ entries:
       url: /funding.html
       output: web, pdf
 
-    - title: Platform and offer
-      url: /platform_and_offer.html
-      output: web, pdf
-
-    - title: One Stop Shop
-      url: /one_stop_shop.html
+    - title: Publication and Acknowledgement
+      url: /publication_and_acknowledgement.html
       output: web, pdf
 
     - title: Post Access Requirements
       url: /postaccess_requirements.html
       output: web, pdf
 
-    - title: Procedure
-      url: /procedure.html
-      output: web, pdf
-
-    - title: Publication and Acknowledgement
-      url: /publication_and_acknowledgement.html
+    - title: One Stop Shop
+      url: /one_stop_shop.html
       output: web, pdf
 
   - title: IBISBA Management
@@ -78,18 +70,6 @@ entries:
 
     - title: Licensing policies
       url: /licensing_policies.html
-      output: web, pdf
-
-  - title: Handbook
-    output: web, pdf
-    folderitems:
-
-    - title: Modifying
-      url: /modifying_the_handbook.html
-      output: web, pdf
-
-    - title: Requesting changes
-      url: /requesting_changes_handbook.html
       output: web, pdf
 
   - title: Hub management
@@ -110,10 +90,6 @@ entries:
 
     - title: Access rights
       url: /hub_access_and_rights.html
-      output: web, pdf
-
-    - title: Project workflow
-      url: /project_workflow.html
       output: web, pdf
 
     - title: Project population
@@ -195,4 +171,16 @@ entries:
 
     - title: BTL workflow
       url: /btl_workflow.html
+      output: web, pdf
+
+  - title: Handbook
+    output: web, pdf
+    folderitems:
+
+    - title: Modifying
+      url: /modifying_the_handbook.html
+      output: web, pdf
+
+    - title: Requesting changes
+      url: /requesting_changes_handbook.html
       output: web, pdf

@@ -9,6 +9,12 @@ permalink: hub_project_population.html
 folder: hub_management
 ---
 
+### Screencast
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/68D1j5MwOnw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
 When you have created a project it is time to populate it with procedures, datasets and other important information.
 
 
@@ -31,8 +37,4 @@ It should automatically detect all excel files that are linked to this project. 
 {% include image.html file="/populate.png" alt="" caption="" %}
 
 When you click populate it will bring you back to the project overview and the Investigations, Studies and Assays are created / ordered according to the provided Excel file.
-
-### Screencast
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/68D1j5MwOnw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
