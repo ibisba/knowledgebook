@@ -3,19 +3,19 @@
   
   
   <url>
-    <loc>http://localhost:4000/samplepost.html</loc>
+    <loc>/samplepost.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/myupdate.html</loc>
+    <loc>/myupdate.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/test-post-from-last-year.html</loc>
+    <loc>/test-post-from-last-year.html</loc>
   </url>
   
   
@@ -26,147 +26,67 @@
   
   
   <url>
-    <loc>http://localhost:4000/tna_access.html</loc>
+    <loc>/tna_access.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/hub_access_and_rights.html</loc>
+    <loc>/hub_access_and_rights.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/hub_account_creation.html</loc>
+    <loc>/hub_account_creation.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/btl_workflow.html</loc>
+    <loc>/btl_workflow.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/business_process_transfer.html</loc>
+    <loc>/business_process_transfer.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/creating_protocols.html</loc>
+    <loc>/creating_protocols.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/curating_protocols.html</loc>
+    <loc>/curating_protocols.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/data_management.html</loc>
+    <loc>/data_management.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/data_templates_formats.html</loc>
+    <loc>/data_templates_formats.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/eligibility_criteria.html</loc>
+    <loc>/eligibility_criteria.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/ethics.html</loc>
-  </url>
-  
-  
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/finding_protocols.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/finding_workflow.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/funding.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/galaxy_synbiocad.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/hub_management.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/hub_introduction.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/index.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/licensing_policies.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/metaprotocols.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/modifying_the_handbook.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/one_stop_shop.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/platform_and_offer.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/postaccess_requirements.html</loc>
+    <loc>/ethics.html</loc>
   </url>
   
   
@@ -174,43 +94,79 @@
   
   
   <url>
-    <loc>http://localhost:4000/procedure.html</loc>
+    <loc>/finding_protocols.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/hub_project_population.html</loc>
+    <loc>/finding_workflow.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/hub_project_registration.html</loc>
+    <loc>/funding.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/projects.html</loc>
+    <loc>/galaxy_synbiocad.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/public_private_policies.html</loc>
+    <loc>/hub_management.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/publication_and_acknowledgement.html</loc>
+    <loc>/hub_introduction.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/requesting_changes_handbook.html</loc>
+    <loc>/index.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/licensing_policies.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/metaprotocols.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/modifying_the_handbook.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/one_stop_shop.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/platform_and_offer.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/postaccess_requirements.html</loc>
   </url>
   
   
@@ -218,7 +174,43 @@
   
   
   <url>
-    <loc>http://localhost:4000/sharing_protocols.html</loc>
+    <loc>/procedure.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/hub_project_population.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/hub_project_registration.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/projects.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/public_private_policies.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/publication_and_acknowledgement.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/requesting_changes_handbook.html</loc>
   </url>
   
   
@@ -226,29 +218,27 @@
   
   
   <url>
-    <loc>http://localhost:4000/storage_of_biological_material.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/tascu.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/terminology.html</loc>
+    <loc>/sharing_protocols.html</loc>
   </url>
   
   
   
   
   
+  <url>
+    <loc>/storage_of_biological_material.html</loc>
+  </url>
+  
   
   
   <url>
-    <loc>http://localhost:4000/tools_used_by_ibisba.html</loc>
+    <loc>/tascu.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/terminology.html</loc>
   </url>
   
   
@@ -258,13 +248,23 @@
   
   
   <url>
-    <loc>http://localhost:4000/upload_register_hub.html</loc>
+    <loc>/tools_used_by_ibisba.html</loc>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>/upload_register_hub.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/assets/css/style.css</loc>
+    <loc>/assets/css/style.css</loc>
   </url>
   
   
