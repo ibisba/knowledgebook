@@ -88,24 +88,20 @@ entries:
       url: /hub_account_creation.html
       output: web, pdf
 
-    - title: Access rights
-      url: /hub_access_and_rights.html
+    - title: Project registration
+      url: /hub_project_registration.html
       output: web, pdf
 
     - title: Project population
       url: /hub_project_population.html
       output: web, pdf
 
-    - title: Project registration
-      url: /hub_project_registration.html
-      output: web, pdf
-
     - title: Upload & Register to the hub
       url: /upload_register_hub.html
       output: web, pdf
 
-    - title: Tascu
-      url: /tascu.html
+    - title: Access rights
+      url: /hub_access_and_rights.html
       output: web, pdf
 
   - title: Protocols
@@ -155,7 +151,6 @@ entries:
       - title: Data management
         url: /data_management.html
         output: web, pdf
-
 
   - title: Workflows
     output: web, pdf
