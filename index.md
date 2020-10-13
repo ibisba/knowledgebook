@@ -9,3 +9,5 @@ summary: This is an IBISBA information resource in which you can find documentat
 ---
 
 ...
+
+This is the IBISBA Handbook, a public information source for existing and new members of the IBISBA Enterprise. The Handbook contains practical instructions on how to operate IBISBA resources such as the IBISBA-Hub once the implementations and procedures are sufficiently stable for public dissemination. The Handbook also contains various guidelines e.g. for protocol writing and curation.
