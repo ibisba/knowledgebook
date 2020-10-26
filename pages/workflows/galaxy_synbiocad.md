@@ -10,7 +10,7 @@ folder: workflows
 maintainedby: "Melchior du Lac"
 ---
 
-The Galaxy SynBioCAD platform is a collection of tools and workflows for synthetic biology and metabolic engineering. The platform offers heterologous pathway prediction and pathway analysis, as well as genetic design of those pathways and automatic generation of the assembly protocols of said plasmids.
+The [Galaxy SynBioCAD](https://galaxy-synbiocad.org/) platform is a collection of tools and workflows for synthetic biology and metabolic engineering. The platform offers heterologous pathway prediction and pathway analysis, as well as genetic design of those pathways and automatic generation of the assembly protocols of said plasmids.
 
 {% include image.html file="/galaxy_synbiocad_main.png" alt="" caption="" %}
 
