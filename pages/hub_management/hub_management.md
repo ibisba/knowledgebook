@@ -1,5 +1,5 @@
 ---
-title: "Hub management"
+title: "Hub Management"
 tags: [hub]
 # keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
