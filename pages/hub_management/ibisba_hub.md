@@ -9,9 +9,9 @@ permalink: hub_introduction.html
 folder: hub_management
 ---
 
-### IBISBAHub is a key part of the IBISBA ecosystem of facilities  
+## IBISBAHub is a key part of the IBISBA ecosystem of facilities  
 
-#### The IBISBAHub is the place to share scientific information related to the IBISBA 1.0 project. 
+### The IBISBAHub is the place to share scientific information related to the IBISBA 1.0 project. 
 
 It serves as an online portal for:
 
@@ -26,7 +26,7 @@ It serves as an online portal for:
 
 [https://hub.ibisba.eu](https://hub.ibisba.eu/)
 
-#### Project Structure on IBISBAHub (ISA structure):
+### Project Structure on IBISBAHub (ISA structure):
 
 The project are structured and stored on the IBISBAHub around the ISA framework:
 
