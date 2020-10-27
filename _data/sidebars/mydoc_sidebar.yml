@@ -104,6 +104,10 @@ entries:
       url: /hub_access_and_rights.html
       output: web, pdf
 
+    - title: Publications
+      url: /publications.html
+      output: web, pdf
+
   - title: Protocols
     output: web, pdf
     folderitems:
