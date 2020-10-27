@@ -72,11 +72,11 @@ entries:
       url: /licensing_policies.html
       output: web, pdf
 
-  - title: Hub management
+  - title: Hub Management
     output: web, pdf
     folderitems:
 
-    - title: Hub management
+    - title: Hub Management
       url: /hub_management.html
       output: web, pdf
 
