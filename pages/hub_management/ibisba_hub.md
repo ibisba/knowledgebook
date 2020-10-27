@@ -9,24 +9,31 @@ permalink: hub_introduction.html
 folder: hub_management
 ---
 
-Workflow information <here?>
-
 ### IBISBAHub is a key part of the IBISBA ecosystem of facilities  
 
-**The IBISBAHub** is the place to share **scientific information** related to the IBISBA 1.0 project: 
+#### The IBISBAHub is the place to share scientific information related to the IBISBA 1.0 project. 
 
-Online portal for storing, sharing and launching workflows linked with related data and models.  
+It serves as an online portal for:
 
-- Catalogue of Workflows and SOPs
-
-- Support for projects using the IBISBA facilities:
-
-- Data registration in IBISBAHub: using the ISA structure (Investigation, study, assay)
-
+- Recording  progression of projects using the IBISBA facilities
+- Storing, sharing and launching workflows linked with related data and models
+- Data registration using the ISA structure (Investigation, Study, Assay)
 - Support for workflows operating in and across the facilities
-
-- Use of Electronic Lab Notebook
+- Catalogue of Workflows and Standard Operating  Protocols (SOPs)
+- Library of data format templates and processes for the IBISBA consortium
+- Complementing local data management OR provide a data management resource where local system is not available
+- Support accessibility (from local/fully private to published projects)
 
 [https://hub.ibisba.eu](https://hub.ibisba.eu/)
 
-{% include image.html file="/Concept.png" alt="" caption="" %}
+#### Project Structure on IBISBAHub (ISA structure):
+
+The project are structured and stored on the IBISBAHub around the ISA framework:
+
+- 'Investigation' (the research context/hypothesis)
+- 'Study' (a unit of research)
+- 'Assay' (analytical measurement/Experiments)
+
+The ISA framework helps you to provide a complete description of  your experimental metadata i.e. sample characteristics, technology used, measurement types, sample-to-data relationships. This results in your project being organised and the data you produce is easily reproducible and reusable.
+
+{% include image.html file="/ISA.png" alt="" caption="" %}
