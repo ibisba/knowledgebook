@@ -7,6 +7,7 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: hub_introduction.html
 folder: hub_management
+toc: false
 ---
 
 ## IBISBAHub is a key part of the IBISBA ecosystem of facilities  
