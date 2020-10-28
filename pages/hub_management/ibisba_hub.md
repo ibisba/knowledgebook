@@ -10,7 +10,7 @@ folder: hub_management
 toc: false
 ---
 
-## IBISBAHub is a key part of the IBISBA ecosystem of facilities  
+## [IBISBAHub](https://hub.ibisba.eu) is a key part of the IBISBA ecosystem of facilities  
 
 ### The IBISBAHub is the place to share scientific information related to the IBISBA 1.0 project. 
 
