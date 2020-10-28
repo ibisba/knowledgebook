@@ -29,12 +29,12 @@ It serves as an online portal for:
 
 ### Project Structure on IBISBAHub (ISA structure):
 
-The project are structured and stored on the IBISBAHub around the ISA framework:
+The projects are structured and stored on the IBISBAHub around the ISA framework:
 
 - 'Investigation' (the research context/hypothesis)
 - 'Study' (a unit of research)
 - 'Assay' (analytical measurement/Experiments)
 
-The ISA framework helps you to provide a complete description of  your experimental metadata i.e. sample characteristics, technology used, measurement types, sample-to-data relationships. This results in your project being organised and the data you produce is easily reproducible and reusable.
+The ISA framework helps you to provide a complete description of your experimental metadata i.e. sample characteristics, technology used, measurement types, sample-to-data relationships. This results in your project being organised and the data you produce is easily reproducible and reusable.
 
 {% include image.html file="/ISA.png" alt="" caption="" %}
