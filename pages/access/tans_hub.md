@@ -26,6 +26,11 @@ Initial information should be added / checked by the infrastructures associated 
 The default sharing policy of the project must be specified. It should allow no public access, and manage access to members of the project.
 
  {% include image.html file="sharing_policy.png" alt="Jekyll" caption="" %}
+ 
+The license must be specified. Suggested open licenses are:
+* CC0, under which data are made available for any use without restriction or particular requirements on the part of users
+* CC BY, under which data are made available for any use provided that attribution is appropriately given for the sources of data used, in the manner specified by the owner
+* CC BY-NC, under which data are made available for any use provided that attribution is appropriately given and provided the use is not for commercial purposes
 
 The customer may be given some access rights, but this can be determined later.
 
