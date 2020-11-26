@@ -34,6 +34,7 @@ Once proposals have been submitted, the TNA Administrator will check the eligibi
 - [TNA Funding](funding/)
 - [Publication and Acknowledgement](publication/)
 - [Post Access Requirements](post_access/)
+- [TNAs and the IBISBAHub](tnas_hub/)
 
 
 ### 5.   Summary/Next Steps
