@@ -52,7 +52,7 @@ entries:
       url: /postaccess_requirements.html
       output: web, pdf
       
-    - title: TNA & IBISBAHub
+    - title: TNAs and IBISBAHub
       url: /tnas_hub.html
       output: web, pdf
 
