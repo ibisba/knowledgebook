@@ -25,9 +25,9 @@ Initial information should be added / checked by the infrastructures associated 
 
 The default sharing policy of the project must be specified. It should allow no public access, and manage access to members of the project.
 
+ {% include image.html file="sharing_policy.png" alt="Jekyll" caption="" %}
 
-
-The customer may be given some access rights, but this will be determined later.
+The customer may be given some access rights, but this can be determined later.
 
 ### Initial organization steps
 
