@@ -3,13 +3,13 @@ repository: ibisba/handbook
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: IBISBA 1.0 Handbook
+topnav_title: IBISBA Handbook
 # this appears on the top navigation bar next to the home button
 
-site_title: IBISBA 1.0 Handbook
+site_title: IBISBA Handbook
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: IBISBA 1.0
+company_name: IBISBA
 # this appears in the footer
 
 github_editme_path: ibisba/handbook/tree/jekyll/
@@ -33,7 +33,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: IBISBA 1.0 Handbook
+feedback_subject_line: IBISBA Handbook
 
 feedback_email: jasper.koehorst@wur.nl
 # used as a contact email for the Feedback link in the top navigation bar
@@ -104,7 +104,7 @@ sidebars:
 - main_sidebar
 - other
 
-description: "Documentation for IBISBA 1.0"
+description: "Documentation for IBISBA"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
