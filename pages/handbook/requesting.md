@@ -13,7 +13,7 @@ folder: handbook
 
 If you do not want to modify the content directly or you are not yet confident enough on doing this you can write a request and suggest modifications in there. 
 
-First you cope the web address that points to the page that you would like to see changed to some extend. Then you click on the git icon on the bottom of that document to directly bring you to the GitHub repository in which all the content is stored.
+First you copy the web address that points to the page that you would like to see changed to some extent. Then you click on the git icon on the bottom of that document to directly bring you to the GitHub repository in which all the content is stored.
 
 {% include image.html file="/github.png" alt="" caption="" %}
 
