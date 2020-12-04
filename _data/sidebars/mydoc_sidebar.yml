@@ -148,7 +148,7 @@ entries:
         url: /data_templates_formats.html
         output: web, pdf
 
-      - title: terminology
+      - title: Terminology
         url: /terminology.html
         output: web, pdf
 
