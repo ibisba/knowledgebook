@@ -9,7 +9,7 @@ permalink: modifying_the_handbook.html
 folder: handbook
 ---
 
-To modify the content of a page you need to click on the GitHub icon at the bottom of such a document.
+To modify the content of a page you need to click on the GitHub icon which states *Edit me*.
 
 {% include image.html file="/github.png" alt="" caption="" %}
 
