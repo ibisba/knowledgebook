@@ -176,7 +176,7 @@ entries:
       url: /btl_workflow.html
       output: web, pdf
 
-  - title: Handbook
+  - title: How to contribute?
     output: web, pdf
     folderitems:
 
