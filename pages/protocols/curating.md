@@ -7,6 +7,7 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: curating_protocols.html
 folder: protocols
+toc: false
 ---
 #### Curating a protocol
 
