@@ -10,7 +10,7 @@ maintainedby : "Munazah Andrabi"
 toc: false
 ---
 
-## Contribution process   
+### Contribution Process   
 
   The handbook is hosted on Github. We appreciate that many people are inexperienced and uncomfortable about using Github. 
   Therefore,to make it easy we provide you the option to contribute via **Google docs** using the following steps:
