@@ -17,8 +17,8 @@ toc: false
 
   •	**Option A** : If you are happier using Google Docs: follow the Google Doc way.    
   
-  •	**Option B** : If you are even slightly familiar with Git and want to give it a try on GitHub: follow our step-by-step instructions  
-                   (no technical knowledge required!).  
+  •	**Option B** : If you are even slightly familiar with Github and want to give it a try: follow our step-by-step instructions  
+                   (no technical knowledge is required!).  
                  
                  
 ### Contributor responsibilities
