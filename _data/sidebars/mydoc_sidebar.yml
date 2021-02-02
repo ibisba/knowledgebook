@@ -157,8 +157,8 @@ subitems:
   - title: Contribute
     output: web, pdf
     subitems:
-      - title: How to contribute
-        url: /how_to_contribute.html
+      - title: How to Contribute
+        url: /How_to_Contribute.html
         output: web, pdf    
       - title: Google Doc Way
         url: /google_doc_way.html
