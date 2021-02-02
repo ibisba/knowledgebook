@@ -4,7 +4,7 @@ tags: [handbook]
 # keywords: release notes, announcements, what's new, new features
 last_updated: 02 Feburary, 2020
 sidebar: mydoc_sidebar
-permalink: requesting_changes_handbook.html
+permalink: contributing_to_handbook.html
 folder: handbook
 ---
 
