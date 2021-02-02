@@ -16,14 +16,12 @@ This guide tells you how you can easily request and edit a page on this website.
 
 **Prerequisite:** [create a GitHub account](https://github.com/join) before you start. It's easy and free.
 
-<!-- The process of contribution via GitHub is sketched below.
-
 
 ### Announce and discuss your proposal through GitHub "issues"
 1. Go to the [Handbook repo](https://github.com/ibisba/handbook){:target="_blank"} on GitHub.
 2. Click on "Issues" in the top menu bar and look at the existing issues. See if your idea or suggestion is already being discussed.
-      * **If an issue exists**, add your comments. If you want to edit the content discussed, let people know through the comments.
-      * **If no relevant issue exists**, create a new issue by clicking on the green "New issue" button on the right, and write the title and a brief explanation 
+      - **If an issue exists**, add your comments. If you want to edit the content discussed, let people know through the comments.
+      - **If no relevant issue exists**, create a new issue by clicking on the green "New issue" button on the right, and write the title and a brief explanation 
           of the content you want to write. 
 3. Discuss your idea with the editors through comments in the issues. You will be notified when others comment on your issues. 
    Read the comments and write your opinion/questions/answers in the "Leave a comment" box and click on the green "Comment" button on the right.
@@ -41,20 +39,20 @@ This guide tells you how you can easily request and edit a page on this website.
     {% include image.html class="mt-0 mb-0" file="propose_changes_github.png" inline=true alt="Propose changes on GitHub" %}
 6. You are now redirected to the Pull Request (PR) page. A "pull request" is a request to "pull" your changes into the website. Click on the "Create Pull Request" green button. Here you can choose to:
 
-     * "Create draft pull request": choose this if you have not finished writing. Later on you can always click on "Ready for review" to switch to a normal pull request. You can find more information about draft pull requests in the [GitHub documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests).
-     * "Create pull request": choose this if you have finished your text. Editors will then review your request.
+     - "Create draft pull request": choose this if you have not finished writing. Later on you can always click on "Ready for review" to switch to a normal pull request. You can find more information about draft pull requests in the [GitHub documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests).
+     - "Create pull request": choose this if you have finished your text. Editors will then review your request.
     {% include image.html class="mt-0 mb-0" file="draft_pullrequest_github.png" inline=true alt="PrDraft pull request on GitHub" %}
 
 7. You can return to your pull request by going to the [pull request section](https://github.com/ibisba/handbook/pulls) of our GitHub repo.
 
 8. If you change your mind about anything in your pull request and the request is not closed, or if the editor tells you to edit your request during the review process, you have to:
-    * Go to your pull request
-    * Click on "Files changed" in the top menu bar.
+    - Go to your pull request
+    - Click on "Files changed" in the top menu bar.
       {% include image.html class="mt-0 mb-0" file="files_changed_github.png" inline=true alt="Files changed tab on GitHub" %}
-    * Click on the icon with 3 dots "..." of the file you  want to edit and then click on "Edit file".
+    - Click on the icon with 3 dots "..." of the file you  want to edit and then click on "Edit file".
       {% include image.html class="mt-0 mb-0" file="3_dots_github.png" inline=true alt="File change options on GitHub" %}
-    * Make your changes.
-    * Click on “Commit changes”.
+    - Make your changes.
+    - Click on “Commit changes”.
 
 {% include note.html content="Anyone can comment on your issue or pull request and you can reply. For more information on this, please visit the [GitHub documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request)" %}
 
@@ -66,13 +64,13 @@ If you open a normal pull request then a review is automatically requested. The 
 
 1. When editors add comments or add a review of your pull request, you will be notified.
 2. You need to address editors' comments and requests by editing your pull request as in step 6 (see above).
-   * Go to your pull request
-   * Click on "Files changed" in the top menu bar.
+   - Go to your pull request
+   - Click on "Files changed" in the top menu bar.
     {% include image.html class="mt-0 mb-0" file="files_changed_github.png" inline=true alt="Files changed tab on GitHub" %}
-   * Click on the icon with 3 dots "..." of the file you  want to edit and then click on "Edit file".
+   - Click on the icon with 3 dots "..." of the file you  want to edit and then click on "Edit file".
     {% include image.html class="mt-0 mb-0" file="3_dots_github.png" inline=true alt="File change options on GitHub" %}
-   * Make your changes.
-   * Click on “Commit changes”.
+   - Make your changes.
+   - Click on “Commit changes”.
 3. When all the requests have been addressed, the editors will mark the conversation as "Resolved" and the proposed changes as "Approved".
 4. You content is ready to be merged and published in the main website.
 5. Editors publish your content.
