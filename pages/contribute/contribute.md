@@ -15,7 +15,7 @@ toc: false
   All the IBISBA community is welcome to contribute to this site, and we’ve tried to make it as easy as possible. 
   The website is hosted on GitHub and you can choose the ay of contribution that suits you.   
 
-   -	**Google Doc Way** : If you are happier using Google Docs: follow the [instructions](https://ibisba.github.io./handbook/google_doc_way.html).    
+   -	**Google Doc Way** : If you are comfortable using Google Docs: follow the [instructions](https://ibisba.github.io./handbook/google_doc_way.html).    
   
    -  **Github Way** : If you are even slightly familiar with Github and want to give it a try: follow our [step-by-step instructions](https://ibisba.github.io./handbook/github_way.html) (no technical knowledge is required!).  
                  
