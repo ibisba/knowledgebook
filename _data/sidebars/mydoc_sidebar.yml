@@ -158,7 +158,7 @@ subitems:
     output: web, pdf
     subitems:
     - title: Contribute
-        url: /contribut.html
+        url: /contribute.html
         output: web, pdf
         
       - title: Modifying
