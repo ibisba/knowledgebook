@@ -6,6 +6,7 @@ last_updated: 02 Feburary, 2020
 sidebar: mydoc_sidebar
 permalink: How_to_Contribute.html
 folder: handbook
+toc: false
 ---
 
 ## How to contribute to the Handbook website 
