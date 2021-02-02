@@ -17,16 +17,18 @@ toc: false
 
 
   - Email the editorial team at handbook-editors@ibisba.org to propose a new page or a new section in an existing page. 
-    Make sure you keep other contributors in the CC of your email. The editors will create an issue the GitHub repository 
-    to announce your contribution to others. 
+    Make sure to keep other contributors in the CC of your email. 
+    The editors will create an issue in the GitHub repository to announce your plan of contribution. 
  
-  - Go to the Handbook Space  and copy the google doc template provided there and name it with the title of the page you want to contribute.
+  - Go to the [Handbook Space](https://drive.google.com/drive/folders/1eBZVYwRye2lZrPaxzwHX1p0zijHoYKz6) and copy the [Template](https://docs.google.com/document/d/15PzAj8c6U2SQKgiQPKEhmrhWooiBUBiEtsa4ZVzI1VE/edit) provided there and name it with the title of the page you wish to contribute.
 
-  - Notify the editorial team when you are finished.  
+  - Start writing your content.
+  
+  - Notify the editorial team when you are done writing.  
 
-  - The editors will assign reviewers to your page, who will provide feedback as comments on the shared google doc and will notify you.  
+  - The editors will assign reviewers to your page, who will provide feedback in the form of comments on the shared google doc and will notify you.  
 
-  - Address the reviewers’ comments and let the editorial team know, again by mail, that you’re finished with revisions.  
+  - Address the reviewers’ comments and let the editorial team know, again by mail, that you’re done with revisions.  
 
-  - The editors will transfer your page to GitHub and let you know when it is published on the website.  
+  - The editors will then transfer your page to GitHub and let you know when it is published on the website.  
 
