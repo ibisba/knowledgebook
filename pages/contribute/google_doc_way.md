@@ -1,5 +1,5 @@
 ---
-title: Google doc way
+title: Google Doc Way
 # keywords: release notes, announcements, what's new, new features
 last_updated: Febuary 02, 2020
 # summary: ""
