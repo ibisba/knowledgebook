@@ -154,10 +154,10 @@ subitems:
         url: /btl_workflow.html
         output: web, pdf
 
-  - title: Handbook
+  - title: Contribute
     output: web, pdf
     subitems:
-    - title: Contribute
+    - title: How to Contribute
         url: /contributing_to_handbook.html
         output: web, pdf
         
