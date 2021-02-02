@@ -158,7 +158,7 @@ subitems:
     output: web, pdf
     subitems:
     - title: Contribute
-        url: /contribute.html
+        url: /contributing_to_handbook.html
         output: web, pdf
         
       - title: Modifying
