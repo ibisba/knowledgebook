@@ -1,6 +1,12 @@
 ---
 title: Google doc way
-sidebar: contribute
+# keywords: release notes, announcements, what's new, new features
+last_updated: Febuary 02, 2020
+# summary: ""
+sidebar: mydoc_sidebar
+folder: contribute
+permalink: google_doc_way.html
+maintainedby : "Munazah Andrabi"
 toc: false
 ---
 
