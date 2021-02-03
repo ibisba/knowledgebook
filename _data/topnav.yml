@@ -3,10 +3,10 @@
 topnav:
 - title: Topnav
   items:
+    - title: About
+      url: /index.html
     - title: GitHub
       external_url: http://github.com/ibisba/handbook
-#    - title: News
-#      url: /news
 
 #Topnav dropdowns
 # topnav_dropdowns:
