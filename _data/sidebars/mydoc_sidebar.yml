@@ -155,11 +155,9 @@ subitems:
         output: web, pdf
 
   - title: Contribute
+    url: /contribute.html
     output: web, pdf
-    subitems:
-      - title: How to Contribute
-        url: /How_to_Contribute.html
-        output: web, pdf    
+    subitems:   
       - title: Google Doc Way
         url: /google_doc_way.html
         output: web, pdf
