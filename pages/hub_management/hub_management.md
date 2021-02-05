@@ -7,7 +7,8 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: hub_management.html
 folder: hub_management
-maintainedby : "Munazah Andrabi"
+maintainer: "Munazah Andrabi"
+contributors: ["Munazah Andrabi"]
 ---
 
 ### 1. Who is this section meant for?

@@ -7,7 +7,8 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: finding_workflow.html
 folder: workflows
-maintainedby: "Melchior du Lac"
+maintainer: "Melchior du Lac"
+contributors: ["Melchior du Lac"]
 ---
 
 To find a workflow, visit the following page: https://hub.ibisba.eu/workflows, also found as an entry in the "Browse" selection as shown below:
