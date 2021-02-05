@@ -6,7 +6,8 @@ last_updated: Febuary 02, 2020
 sidebar: mydoc_sidebar
 folder: contribute
 permalink: github_way.html
-maintainedby : "Munazah Andrabi"
+maintainer: "Munazah Andrabi"
+contributors: ["Munazah Andrabi"]
 toc: false
 ---
 
