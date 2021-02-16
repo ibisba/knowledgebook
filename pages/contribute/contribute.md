@@ -19,9 +19,9 @@ toc: false
 
 ### Modifying the existing content:
    
- 1. If you wish to edit or mdoify the existing content please do so using the [intsructions](https://ibisba.github.io./handbook/modifying_the_handbook.html) in     **Modifying** section.
+ - If you wish to edit or modify the existing content please do so by using the [intsructions](https://ibisba.github.io./handbook/modifying_the_handbook.html) in     **Modifying** section.
  
- 2. However if you do not feel confident editing via Github please follow the [instrcutions](https://ibisba.github.io./handbook/requesting_changes_handbook.html) in the **Requesting changes** section.
+ - However if you do not feel confident editing via Github please follow the [instrcutions](https://ibisba.github.io./handbook/requesting_changes_handbook.html) in the **Requesting changes** section.
                  
 ### Contributor responsibilities:
   
