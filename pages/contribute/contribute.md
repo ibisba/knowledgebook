@@ -1,5 +1,5 @@
 ---
-title: "How to Contribute"
+title:
 tags: [handbook]
 # keywords: release notes, announcements, what's new, new features
 last_updated: 02 Feburary, 2020
@@ -11,23 +11,23 @@ toc: false
 
 ## How to contribute to the Handbook website 
 
-### Adding New Content:
+### Adding new content:
 
   All the IBISBA community is welcome to contribute to this site, and we’ve tried to make it as easy as possible. 
   
-  You can add new content using the [instructions](https://ibisba.github.io./handbook/google_doc_way.html).    
+  You can add new content using the [instructions](https://ibisba.github.io./handbook/google_doc_way.html) in the **Google doc way** section.    
 
-### Modifying the Existing Content:
+### Modifying the existing content:
    
- 1. If you wish to edit or mdoify the existing content please do so using the [intsructions](https://ibisba.github.io./handbook/modifying_the_handbook.html) in     **Modifying** section
+ 1. If you wish to edit or mdoify the existing content please do so using the [intsructions](https://ibisba.github.io./handbook/modifying_the_handbook.html) in     **Modifying** section.
  
- 2. However if you do not feel confident editing via Github please follow the [instrcutions](https://ibisba.github.io./handbook/requesting_changes_handbook.html) in the **Requesting changes** section
+ 2. However if you do not feel confident editing via Github please follow the [instrcutions](https://ibisba.github.io./handbook/requesting_changes_handbook.html) in the **Requesting changes** section.
                  
-### Contributor responsibilities
+### Contributor responsibilities:
   
   - We give great importance to **authorship credit**. If others were involved in your contribution, by writing up or by providing resources such as diagrams or links, 
   please make sure you acknowledge them in the contributors’ section of your page.
   
-### Attribution of the contributors
+### Attribution of the contributors:
   - Contributors will be shown at the bottom of the page if listed in the metadata of the markdown file.
   
