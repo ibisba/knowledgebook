@@ -11,7 +11,7 @@ folder: handbook
 
 You can modify or edit the content of a page directly on Github. For this you will first need to login (or signup if you do not have an account yet) to Github. 
 
-    {% include image.html file="/github_edit.png" alt="" caption="" %}
+  {% include image.html file="/github_login.png" alt="" caption="" %}
 
 
 ### Edit your content and make a pull request:
@@ -19,7 +19,7 @@ You can modify or edit the content of a page directly on Github. For this you wi
   1. After you have logged into Github go to the page you want to edit on the website. On the page click on the GitHub icon which states *Edit me*.The “Edit me”
      icon will take you to the GitHub repository, where you again click on the pencil icon, shown on the right, and start editing.
   
-       {% include image.html file="/github_edit.png" alt="" caption="" %}
+       {% include image.html file="/github_edit2.png" alt="" caption="" %}
 
   2. You can now edit or add new text and images required for the content you want to add. Formatting is done according the MkDocs format 
      [Cheathseet] (http://madrus4u.com/mdocs/engine/cheatsheet/).
