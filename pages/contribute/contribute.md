@@ -11,14 +11,17 @@ toc: false
 
 ## How to contribute to the Handbook website 
 
-### Ways of contributing
-  All the IBISBA community is welcome to contribute to this site, and we’ve tried to make it as easy as possible. 
-  The website is hosted on GitHub and you can choose the ay of contribution that suits you.   
+### Adding New Content:
 
-   -	**Google Doc Way** : If you are comfortable using Google Docs: follow the [instructions](https://ibisba.github.io./handbook/google_doc_way.html).    
+  All the IBISBA community is welcome to contribute to this site, and we’ve tried to make it as easy as possible. 
   
-   -  **Github Way** : If you are even slightly familiar with Github and want to give it a try: follow our [step-by-step instructions](https://ibisba.github.io./handbook/github_way.html) (no technical knowledge is required!).  
-                 
+  You can add new content using the [instructions](https://ibisba.github.io./handbook/google_doc_way.html).    
+
+### Modifying the Existing Content:
+   
+ 1. If you wish to edit or mdoify the existing content please do so using the [intsructions](https://ibisba.github.io./handbook/modifying_the_handbook.html) in     **Modifying** section
+ 
+ 2. However if you do not feel confident editing via Github please follow the [instrcutions](https://ibisba.github.io./handbook/requesting_changes_handbook.html) in the **Requesting changes** section
                  
 ### Contributor responsibilities
   
