@@ -1,5 +1,5 @@
 ---
-title:
+title: "How to contribute"
 tags: [handbook]
 # keywords: release notes, announcements, what's new, new features
 last_updated: 02 Feburary, 2020
@@ -8,8 +8,6 @@ permalink: contribute.html
 folder: contribute
 toc: false
 ---
-
-## How to contribute to the Handbook website 
 
 ### Adding new content:
 
