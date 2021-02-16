@@ -9,27 +9,50 @@ permalink: modifying_the_handbook.html
 folder: handbook
 ---
 
-To modify the content of a page you need to click on the GitHub icon which states *Edit me*.
+You can modify or edit the content of a page directly on Github. For this you will first need to login (or signup if you do not have an account yet) to Github. 
 
-{% include image.html file="/github.png" alt="" caption="" %}
+    {% include image.html file="/github_edit.png" alt="" caption="" %}
 
-When you click on this icon you are immediately brought to the online editor on GitHub in which you can modify the page that you were viewing.
 
-To edit the actual content you first need to login (or signup if you do not have an account yet).
-When you have logged in you can click the pencil button which brings you into the editor.
+### Edit your content and make a pull request:
+  
+  1. After you have logged into Github go to the page you want to edit on the website. On the page click on the GitHub icon which states *Edit me*.The “Edit me”
+     icon will take you to the GitHub repository, where you again click on the pencil icon, shown on the right, and start editing.
+  
+       {% include image.html file="/github_edit.png" alt="" caption="" %}
 
-{% include image.html file="/github_edit.png" alt="" caption="" %}
+  2. You can now edit or add new text and images required for the content you want to add. Formatting is done according the MkDocs format 
+     [Cheathseet] (http://madrus4u.com/mdocs/engine/cheatsheet/).
+     
+  3. When you are happy with the edited content, go to the “Propose changes” section at the end of the page and write a title and a brief 
+     explanation of your changes.This can be as short as ‘fixing a typo’, ‘mkdocs formatting issue’ or be more elaborate explaining what section was added and why.
+  
+  4. Click on “Propose changes”.
+    {% include image.html class="mt-0 mb-0" file="propose_changes_github.png" inline=true alt="Propose changes on GitHub" %}
+  
+  5. You are now redirected to the Pull Request (PR) page. A "pull request" is a request to "pull" your changes into the website. 
+     Click on the "Create Pull Request" green button. Here you can choose to:
 
-After entering the editor you can freely modify the text. Formatting is done according the MkDocs format ([Cheathseet](http://madrus4u.com/mdocs/engine/cheatsheet/)). When you finished editing the page and are satisfied with the content you can leave a small message about the changes you have made. This can be as short as 'fixing a typo', 'mkdocs formatting issue' or be more elaborate explaining what section was added and why. 
+      - "Create draft pull request": choose this if you have not finished writing. Later on you can always click on "Ready for review" to switch to a normal 
+         pull request. You can find more information about draft pull requests in the [GitHub documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests).
+      - "Create pull request": choose this if you have finished your text. Editors will then review your request.
+    {% include image.html class="mt-0 mb-0" file="draft_pullrequest_github.png" inline=true alt="PrDraft pull request on GitHub" %}
 
-You can then make these changes directly or when you want to discuss about it you can click on the (***Create a new branch for this commit and start a pull request. Learn more about pull requests***). This will then start a request to merge the content and then other editors involved can more easily suggest modifications or accept the content directly.
+  6. In case you created a "draft pull request", you can return to your pull request by going to the [pull request section](https://github.com/ibisba/handbook/pulls) of our GitHub repo.
+  
+  7. If you open a normal pull request then a review is automatically requested. The relevant editors will check your changes. 
 
-{% include image.html file="/create.png" alt="" caption="" %}
+### Address editors' comments
 
-This will bring you to a new screen where you can see the comments that you had written down. In this overview you can create the proposed pull request so your changes can be reviewed and upon approval to be merged into the website.
-
-{% include image.html file="/pull_request.png" alt="" caption="" %}
-
-You can assign a person to review your modifications by clicking the Reviewers panel and select one of the many people involved.
-
-{% include image.html file="/reviewer.png" alt="" caption="" %}
+ 1. When editors add comments or add a review of your pull request, you will be notified.
+ 2. You need to address editors' comments and requests by editing your pull request as in step 5 (see above).
+   - Go to your pull request
+   - Click on "Files changed" in the top menu bar.
+    {% include image.html class="mt-0 mb-0" file="files_changed_github.png" inline=true alt="Files changed tab on GitHub" %}
+   - Click on the icon with 3 dots "..." of the file you  want to edit and then click on "Edit file".
+    {% include image.html class="mt-0 mb-0" file="3_dots_github.png" inline=true alt="File change options on GitHub" %}
+   - Make your changes.
+   - Click on “Commit changes”.
+3. When all the requests have been addressed, the editors will mark the conversation as "Resolved" and the proposed changes as "Approved".
+4. You content is ready to be merged and published in the main website.
+5. Editors will publish your content.
