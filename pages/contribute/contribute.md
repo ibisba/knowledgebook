@@ -1,5 +1,5 @@
 ---
-title: "How to contribute"
+title: "How to contribute to the handbook"
 tags: [handbook]
 # keywords: release notes, announcements, what's new, new features
 last_updated: 02 Feburary, 2020
