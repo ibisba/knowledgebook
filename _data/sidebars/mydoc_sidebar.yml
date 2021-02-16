@@ -161,9 +161,6 @@ subitems:
       - title: Google Doc Way
         url: /google_doc_way.html
         output: web, pdf
-      - title: Github Way
-        url: /github_way.html
-        output: web, pdf 
       - title: Modifying
         url: /modifying_the_handbook.html
         output: web, pdf
