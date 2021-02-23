@@ -18,7 +18,7 @@ folder: hub_management
 When you have created a project it is time to populate it with procedures, datasets and other important information.
 
 
-### Populating your IBISBA project using iPOP
+### Populating your IBISBA project using iPop
 
 You can create the investigation, study and assay sections one by one using the manual procedure. However, when you are at the beginning of your project you can already to some level of detail plan your workflow. Which investigations are being performed, what are the studies to be executed, and which assays belong to that. To make the creation of the Investigation, Study and Assay more efficient we have developed the IBISBA Populator (iPop).
 
