@@ -7,6 +7,7 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: requesting_changes_handbook.html
 folder: handbook
+toc: off
 ---
 
 ### Requesting a modification
