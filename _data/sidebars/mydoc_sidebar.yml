@@ -59,12 +59,9 @@ subitems:
         output: web, pdf
 
   - title: Hub Management
+    url: /hub_management.html
     output: web, pdf
     subitems:
-      - title: Hub Management
-        url: /hub_management.html
-        output: web, pdf
-
       - title: Introduction to the Hub
         url: /hub_introduction.html
         output: web, pdf
