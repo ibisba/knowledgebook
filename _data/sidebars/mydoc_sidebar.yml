@@ -43,7 +43,7 @@ subitems:
         url: /one_stop_shop.html
         output: web, pdf
 
-  - title: IBISBA Management
+  - title: IBISBAHub Management
     output: web, pdf
     subitems:
       - title: Business Process Transfer
