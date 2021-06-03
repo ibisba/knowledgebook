@@ -13,7 +13,7 @@ toc: off
 ### Requesting a modification
 
 If you do not want to modify the content directly using Github issues or you are not yet confident enough on doing this you can get in touch with the [editorial 
-team](handbook-editors@ibisba.org) and request the modifications you want. Please make sure you include the following information in your email:
+team](handbook-editors@ibisba.eu) and request the modifications you want. Please make sure you include the following information in your email:
 
  - Copy the web address that points to the page that you would like to see changed or modified.
  - Suggest the modifications or include the new content that you think should replace the existing text.
