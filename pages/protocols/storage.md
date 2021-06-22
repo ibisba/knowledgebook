@@ -1,5 +1,5 @@
 ---
-title: "Storage of biological material"
+title: "Storage of Biological Material"
 tags: [protocols]
 # keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
@@ -7,4 +7,5 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: storage_of_biological_material.html
 folder: protocols
+contributors: []
 ---
