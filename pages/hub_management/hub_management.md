@@ -27,18 +27,14 @@ Apart from assigning or populating data to your project you will also learn to i
 
 ### 4. Stepwise instructions
 
-- [Introduction to Hub](ibisba_hub/)
-- [Account creation](account/)
-- [Project registration](project_registration/)
-- [Project population](project_population/)
-- [Upload/Register to Hub](upload/)
-- [Access rights](management/)
+- [Introduction to Hub](https://ibisba.github.io/handbook/hub_introduction.html)
+- [Account creation](https://ibisba.github.io/handbook/hub_account_creation.html)
+- [Project registration](https://ibisba.github.io/handbook/hub_project_registration.html)
+- [Project population](https://ibisba.github.io/handbook/hub_project_population.html)
+- [Upload/Register to Hub](https://ibisba.github.io/handbook/upload_register_hub.html)
+- [Access rights](https://ibisba.github.io/handbook/hub_access_and_rights.html)
+- [Publication](https://ibisba.github.io/handbook/publications.html)
 
 ### 5. Summary/Next Steps
 We hope reading through this section has given you enough information to get yourself an account on the IBISBAHub and get started with creating your project and uploading/registering your data and other relevant documents.
  
-### 6. Frequently asked questions
-STILL `TODO`.
- 
-### 7. Related sections
-List sections that are related to this section with a brief indication why 
