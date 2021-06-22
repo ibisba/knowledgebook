@@ -1,5 +1,5 @@
 ---
-title: "Upload & Register to the hub"
+title: "Upload & Register to the Hub"
 tags: [hub]
 # keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
@@ -39,7 +39,7 @@ When the file is located on your computer it will be uploaded to the hub and saf
 
 {% include image.html file="/add_data_2.png" alt="" caption="" %}
 
-### Data wizard
+### Data Wizard
 Once the file / url is accepted the data wizard will start. First you fill in all the basic information such as what is the title or description of the files, to which project it belongs to and when available additional tags can be added.
 
 {% include image.html file="/add_data_4.png" alt="" caption="" %}
