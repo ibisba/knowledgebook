@@ -8,6 +8,7 @@ sidebar: mydoc_sidebar
 permalink: hub_project_registration.html
 folder: hub_management
 toc: false
+contributors: ["Munazah Andrabi"]
 ---
 
 ### Screencast
