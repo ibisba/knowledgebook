@@ -12,7 +12,8 @@ contributors: ["Munazah Andrabi"]
 ---
 
    You can modify or edit the content of a page directly on Github. For this you will first need to login (or signup if you do not have an Git account)to Github.     
-       {% include image.html file="/github_login.png" alt="" caption="" %}
+      
+      {% include image.html file="/github_login.png" alt="" caption="" %}
 
 
 ### Edit your Content and make a Pull Request:
