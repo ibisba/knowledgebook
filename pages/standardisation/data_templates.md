@@ -10,7 +10,7 @@ folder: standardisation
 contributors: ["Peter Blomberg"]
 ---
 
-Information about data templates and formats used
+Information about data formats used and produced by IBISBA facilities
 
 | Data typology           | Format                     | Compatibility |
 |-------------------------|----------------------------|---------------|
