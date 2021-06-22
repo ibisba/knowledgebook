@@ -17,7 +17,7 @@ toc: false
   Therefore,to make it easy we provide you the option to contribute via **Google docs** using the following steps:
 
 
-  - Email the editorial team at handbook-editors@ibisba.org to propose a new page or a new section in an existing page. 
+  - Email the editorial team at **handbook-editors@ibisba.eu** to propose a new page or a new section in an existing page. 
     Make sure to keep other contributors in the CC of your email. 
     The editors will create an issue in the GitHub repository to announce your plan of contribution. 
  
