@@ -58,7 +58,7 @@ subitems:
         url: /licensing_policies.html
         output: web, pdf
 
-  - title: IbisbaHub 
+  - title: IBISBAHub 
     url: /hub_management.html
     output: web, pdf
     subitems:
