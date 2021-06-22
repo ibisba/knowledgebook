@@ -1,5 +1,5 @@
 ---
-title: "Finding protocols"
+title: "Finding Protocols"
 tags: [protocols]
 # keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
@@ -7,8 +7,9 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: finding_protocols.html
 folder: protocols
+contributors: ["Jasper Koehorst"]
 ---
-### Finding a protocol
+### Finding a Protocol
 
 Finding a protocol is as easy as finding any other file. First you go to the protocol overview page by clicking browse and then protocols.
 
