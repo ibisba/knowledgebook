@@ -1,5 +1,5 @@
 ---
-title: "Data  formats"
+title: "Data  Formats"
 tags: [standardisation, templates, formats]
 # keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
