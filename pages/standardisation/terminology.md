@@ -7,6 +7,7 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: terminology.html
 folder: standardisation
+contributors: ["Peter Blomberg"]
 ---
 IBISBA involves multiple disciplines and countries having slightly different definitions and typical use of terms. With English not being the primary language, yet being the common language in use, inexact terms have become typical in certain regions and cultures. The IBISBA Terminology is a coherent set of words and phrases that have been agreed upon within the IBISBA Enterprise to advocate common underestanding. The ultimate goal is to harmonize the use of terms and their definitions across all operations within the IBISBA Enterprise.
 
