@@ -1,5 +1,5 @@
 ---
-title: "Account creation"
+title: "Account Creation"
 tags: [hub]
 # keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
