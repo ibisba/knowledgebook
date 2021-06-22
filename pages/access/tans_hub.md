@@ -7,11 +7,12 @@ last_updated: November 26, 2020
 sidebar: mydoc_sidebar
 permalink: tnas_hub.html
 folder: access
+contributors: ["Munazah Andrabi", "Alan Williams"]
 ---
 
 
 
-### Initial information required by the Hub
+### Initial Information Required by the Hub
 
 Initial information should be added / checked by the infrastructures associated with each project. This information includes:
 
@@ -34,7 +35,7 @@ The license must be specified. Suggested open licenses are:
 
 The customer may be given some access rights, but this can be determined later.
 
-### Initial organization steps
+### Initial Organisation Steps
 
 * An IBISBA person should be defined as the contact for the project.
 * An IBISBAHub representative should be identified for the project.
@@ -43,7 +44,7 @@ The customer may be given some access rights, but this can be determined later.
 
 The contact details should be specified in a free text document called contacts and uploaded as a document of the project.
 
-### Process steps
+### Process Steps
 
 * Meeting of Hub representative with all the Facility Operators (FO) involved in the project
   The meetings will be minuted
@@ -51,7 +52,7 @@ The contact details should be specified in a free text document called contacts 
   The project steps will be documented in a spreadsheet
   The project steps will specify, / reference the protocol - which includes the inputs and outputs
 
-### What exactly will the TNAs provide to the Hub? 
+### What Exactly Will the TNAs Provide to the Hub? 
 * Data/information is added to the HUB while the project is ongoing. This involves the Hub representative
 * Data can include:
    * Protocols
@@ -63,5 +64,5 @@ The contact details should be specified in a free text document called contacts 
 * The data should specify if it is an input or an output of the step.
 * The final reports should be specified as documents and associated with the project.
 
-### What Hub structure will the information be  incorporated to 
+### What Hub Structure will the Information be Incorporated to 
 * Project structure to be decided by the Facility Operator in conjunction with the Hub representative
