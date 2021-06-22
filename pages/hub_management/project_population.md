@@ -7,10 +7,10 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: hub_project_population.html
 folder: hub_management
-contributors: ["Munazah Andrabi"]
+contributors: ["Munazah Andrabi", "Alan Williams", "Stefan Helfrich"]
 ---
 
-### Screencast: Populating a project using TasCu
+### Screencast: Populating a Project using TasCu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/68D1j5MwOnw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -19,7 +19,7 @@ contributors: ["Munazah Andrabi"]
 When you have created a project it is time to populate it with procedures, datasets and other important information.
 
 
-### Populating your IBISBA project using iPop
+### Populating your IBISBA Project using iPop
 
 You can create the investigation, study and assay sections one by one using the manual procedure. However, when you are at the beginning of your project you can already to some level of detail plan your workflow. Which investigations are being performed, what are the studies to be executed, and which assays belong to that. To make the creation of the Investigation, Study and Assay more efficient we have developed the IBISBA Populator (iPop).
 
