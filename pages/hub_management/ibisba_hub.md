@@ -8,11 +8,12 @@ sidebar: mydoc_sidebar
 permalink: hub_introduction.html
 folder: hub_management
 toc: false
+contributors: ["Munazah Andrabi , Jasper Koehorst]
 ---
 
 ## [IBISBAHub](https://hub.ibisba.eu) is a key part of the IBISBA ecosystem of facilities  
 
-### The IBISBAHub is the place to share scientific information related to the IBISBA 1.0 project. 
+### The IBISBAHub is the Place to Share Scientific Information Related to the IBISBA 1.0 Project. 
 
 It serves as an online portal for:
 
@@ -27,7 +28,7 @@ It serves as an online portal for:
 
 [https://hub.ibisba.eu](https://hub.ibisba.eu/)
 
-### Project Structure on IBISBAHub (ISA structure):
+### Project Structure on IBISBAHub (ISA Structure):
 
 The projects are structured and stored on the IBISBAHub around the ISA framework:
 
