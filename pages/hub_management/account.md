@@ -7,7 +7,7 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: hub_account_creation.html
 folder: hub_management
-contributors: ["Munazah Andrabi"]
+contributors: ["Munazah Andrabi , Jasper Koehorst"]
 ---
 
 
