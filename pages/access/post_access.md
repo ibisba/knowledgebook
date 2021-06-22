@@ -7,6 +7,7 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: postaccess_requirements.html
 folder: access
+contributors: ["Mauro Di Fenza"]
 ---
 
 It will be mandatory for users to submit a full project report following IBISBA guidelines. 
