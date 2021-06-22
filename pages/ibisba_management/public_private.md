@@ -1,5 +1,5 @@
 ---
-title: "Public / private policies"
+title: "Public/Private Policies"
 tags: [management]
 # keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
@@ -7,4 +7,5 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: public_private_policies.html
 folder: ibisba_management
+contributors:[]
 ---
