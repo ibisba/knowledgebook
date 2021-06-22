@@ -7,6 +7,7 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: publication_and_acknowledgement.html
 folder: access
+contributors: ["Mauro Di Fenza"]
 ---
 
 ## Obligation to Publish Results
