@@ -8,7 +8,7 @@ sidebar: mydoc_sidebar
 permalink: upload_register_hub.html
 folder: hub_management
 maintainer: "Munazah Andrabi"
-contributors: ["Munazah Andrabi"]
+contributors: ["Munazah Andrabi", "Jasper Koehorst"]
 ---
 
 ### Screencast
