@@ -15,7 +15,7 @@ subitems:
             url: /eligibility_criteria.html
             output: web, pdf
 
-          - title: Platform and offer
+          - title: Platform & Offer
             url: /platform_and_offer.html
             output: web, pdf
 
@@ -23,11 +23,11 @@ subitems:
             url: /ethics.html
             output: web, pdf
 
-          - title: TNA funding
+          - title: TNA Funding
             url: /funding.html
             output: web, pdf
 
-          - title: Publication and Acknowledgement
+          - title: Publication & Acknowledgement
             url: /publication_and_acknowledgement.html
             output: web, pdf
 
@@ -50,11 +50,11 @@ subitems:
         url: /business_process_transfer.html
         output: web, pdf
 
-      - title: Public private policies
+      - title: Public Private Policies
         url: /public_private_policies.html
         output: web, pdf
 
-      - title: Licensing policies
+      - title: Licensing Policies
         url: /licensing_policies.html
         output: web, pdf
 
@@ -66,23 +66,23 @@ subitems:
         url: /hub_introduction.html
         output: web, pdf
 
-      - title: Account creation
+      - title: Account Creation
         url: /hub_account_creation.html
         output: web, pdf
 
-      - title: Project registration
+      - title: Project Registration
         url: /hub_project_registration.html
         output: web, pdf
 
-      - title: Project population
+      - title: Project Population
         url: /hub_project_population.html
         output: web, pdf
 
-      - title: Upload & Register to the hub
+      - title: Upload & Register to the Hub
         url: /upload_register_hub.html
         output: web, pdf
 
-      - title: Access rights
+      - title: Access Rights
         url: /hub_access_and_rights.html
         output: web, pdf
 
@@ -93,19 +93,19 @@ subitems:
   - title: Protocols
     output: web, pdf
     subitems:
-      - title: Sharing protocols
+      - title: Sharing Protocols
         url: /sharing_protocols.html
         output: web, pdf
 
-      - title: Finding protocols
+      - title: Finding Protocols
         url: /finding_protocols.html
         output: web, pdf
 
-      - title: Curating protocols
+      - title: Curating Protocols
         url: /curating_protocols.html
         output: web, pdf
 
-      - title: Creating protocols
+      - title: Creating Protocols
         url: /creating_protocols.html
         output: web, pdf
 
@@ -120,7 +120,7 @@ subitems:
   - title: Standardisation
     output: web, pdf
     subitems:
-      - title: Data templates
+      - title: Data Formats
         url: /data_templates_formats.html
         output: web, pdf
 
@@ -132,14 +132,14 @@ subitems:
         url: /tools_used_by_ibisba.html
         output: web, pdf
 
-      - title: Data management
+      - title: Data Management
         url: /data_management.html
         output: web, pdf
 
   - title: Workflows
     output: web, pdf
     subitems:
-      - title: Finding a workflow
+      - title: Finding a Workflow
         url: /finding_workflow.html
         output: web, pdf
 
@@ -147,7 +147,7 @@ subitems:
         url: /galaxy_synbiocad.html
         output: web, pdf
 
-      - title: BTL workflow
+      - title: BTL Workflow
         url: /btl_workflow.html
         output: web, pdf
 
@@ -161,7 +161,7 @@ subitems:
       - title: Modifying
         url: /modifying_the_handbook.html
         output: web, pdf
-      - title: Requesting changes
+      - title: Requesting Changes
         url: /requesting_changes_handbook.html
         output: web, pdf
       
