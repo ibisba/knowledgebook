@@ -1,5 +1,5 @@
 ---
-title: "Modifying the handbook"
+title: "Modifying the Handbook"
 tags: [handbook]
 # keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
@@ -8,13 +8,14 @@ sidebar: mydoc_sidebar
 permalink: modifying_the_handbook.html
 folder: handbook
 toc: off
+contributors: ["Munazah Andrabi"]
 ---
 
    You can modify or edit the content of a page directly on Github. For this you will first need to login (or signup if you do not have an Git account)to Github.     
        {% include image.html file="/github_login.png" alt="" caption="" %}
 
 
-### Edit your content and make a pull request:
+### Edit your Content and make a Pull Request:
   
   1. After you have logged into Github go to the page you want to edit on the website. On the page click on the GitHub icon which states *Edit me*.The “Edit me”
      icon will take you to the GitHub repository, where you again click on the pencil icon, shown on the right, and start editing.
@@ -42,7 +43,7 @@ toc: off
   
   7. If you open a normal pull request then a review is automatically requested. The relevant editors will check your changes. 
 
-### Address editors' comments
+### Address Editors' Comments
 
  1. When editors add comments or add a review of your pull request, you will be notified.
  2. You need to address editors' comments and requests by editing your pull request as in step 5 (see above).
