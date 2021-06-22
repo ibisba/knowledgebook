@@ -7,6 +7,7 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: hub_account_creation.html
 folder: hub_management
+contributors: ["Munazah Andrabi"]
 ---
 
 
@@ -18,7 +19,7 @@ Register to the IBISBAHub [https://hub.ibisba.eu]()
 
 Check your email for the confirmation link! 
 
-### Update your profile
+### Update your Profile
 
 {% include image.html file="ToProfile.png" alt="Jekyll" caption="" %}
 
