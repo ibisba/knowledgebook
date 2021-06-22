@@ -1,5 +1,5 @@
 ---
-title: "Creating protocols"
+title: "Creating Protocols"
 tags: [protocols]
 # keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
@@ -7,17 +7,18 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: creating_protocols.html
 folder: protocols
+contributors: []
 ---
 
-### Minimal requirements and recommendations for IBISBA protocols
+### Minimal Requirements and Recommendations for IBISBA Protocols
 
-#### General guidelines
+#### General Guidelines
 
-**Scope of IBISBA protocols**
+**Scope of IBISBA Protocols**
 
 Each IBISBA protocol should cover a single Task. Before starting to write an IBISBA protocol, you should first identify which Task in the IBISBA Task Curation system would be covered by the protocol. If no such Task can be identified, a new Task must be added to the Task Curation system. Protocols covering multiple Tasks should be divided into several smaller protocols to make them IBISBA-compatible. For example, if a protocol covers both: 1) preparation of electrocompetent cells and 2) transformation of electrocompetent cells, it should be divided into two protocols (i.e. “Preparation of electrocompetent cells” and “Transformation of electrocompetent cells”). If a protocol that covers multiple Tasks or a single Task only partially has been uploaded, the Main Protocol Curator will contact the Protocol Curator of the responsible organization. If two protocols for the same Task have been uploaded to the IBISBA Hub, the Main Curator will make the decision which protocol will be left in the IBISBA Hub and which protocol will be removed.
 
-**Input, output and critical points**
+**Input, Output and Critical Points**
 
 Each IBISBA protocol must have defined inputs and outputs. Inputs include any material or information produced in other Tasks that are needed to execute the protocol. All commonly used materials that can be purchased (e.g. D-glucose, electroporation cuvettes, thermocycler) shall not be included as input. However, all materials that are custom-made for the project or have been designed in the project (e.g. synthetic DNAs) shall be included as inputs.
 
@@ -25,26 +26,26 @@ Output values constitute every material and information produced by executing th
 
 Each protocol contains important steps that need to be carried out in a specific way to ensure the quality of the output. Such steps are termed critical points and form the core of IBISBA protocols. Everything that is not considered a critical point in the protocol should be made as general as possible to ensure wide applicability of the protocol. Critical points should be made specific enough to ensure high quality of the output. For example, if a protocol for long term storage of bacterial cells at -80 °C is written, it should not be made species-specific. If this protocol cannot be used for a certain bacterial species, a new species-specific protocol must be written. In this particular case, the steps which prevented using the more general protocol constituted the critical points.
 
-**When to write a new IBISBA protocol or update an old one**
+**When to Write a New IBISBA Protocol or Update an Existing One**
 
 Before starting to write a new IBISBA protocol you should check from the IBISBA Hub whether it already contains a protocol for the Task in question. If the IBISBA Hub contains such a protocol, you should review it for critical points and consider whether it can be used in your project. If the existing protocol differs too much with respect to its critical points, i.e. the output cannot be obtained or the quality of the output is compromised, a new protocol shall be written. If changes are made to an existing protocol without affecting the critical points, then a new version of the protocol has to be generated.
 
 
-### Structure of IBISBA protocols
+### Structure of IBISBA Protocols
 
 An IBISBA protocol consists of a header section and a body section. A part of the header section is repeated on every page. The body section consists of titled subsections.
 
-**1.	Page header**
+**1.	Page Header**
 
 The title, version number, contact person name and affiliation, and date shall be placed in the page header and thus repeat on every page of the protocol.
 
-**1.1.	Descriptive title**
+**1.1.	Descriptive Title**
 
 A descriptive title without ambiguous or rare abbreviations shall distinguish this protocol from all other potential protocols in a protocol database. If the protocol is closely related to another protocol already uploaded to the IBISBA Hub, it should be obvious from the title how they differ.
 
 Tip: Bad example: ‘Maxwell 16LEV simply RNA kit’. Good example: ‘RNA isolation from tissue samples using the Maxwell instrument’).
 
-**1.2.	Editor for most recent version**
+**1.2.	Editor for Most Recent Version**
 
 This field shall contain the name of the contact person, i.e. lead editor, in the organization (= institution) responsible for this version of the protocol. Initials must not be used. Public identifiers such as ORCID may be added.
 
@@ -60,11 +61,11 @@ In the case of new (second, third,....) version of existing protocol, increment 
 
 The date when this version of the protocol was published/drafted for comments.
 
-**2.	Document header**
+**2.	Document Header**
 
 The document header (not in the page header) shall additionally explain why changes were made to the title (if any), what the terms in the title mean (unless obvious), which version this protocol version replaces or extends, and the names and affiliations of all authors that contributed to this version of the protocol.
 
-**3.	Keywords and key phrases**
+**3.	Keywords and Key Phrases**
 
 Add as many keywords as possible. Use keywords that already exist in the Keyword list file. If none of the existing keywords are useful, add your new keyword to the Keyword list file.
 
@@ -76,7 +77,7 @@ A few sentences that explain the aim, content, and context of the protocol. This
 
 The prerequisites include the inputs from other IBISBA protocols or IBISBA project plan, the consumables, and the equipment necessary to execute this protocol.
 
-**5.1	Inputs from other IBISBA protocols or IBISBA project plan**
+**5.1	Inputs from other IBISBA Protocols or IBISBA Project Plan**
 
 A protocol input is a piece of information or physical object I) produced by another TasCu step or IBISBA protocol, II) required to execute the protocol, and III) cannot be purchased as a consumable.
 
@@ -92,11 +93,11 @@ Manufacturer-made media and buffers bought as consumables shall be specified in 
 
 Note: Recipes for media and buffers shall be isolated into their own protocols.
 
-**5.3	Special consumables**
+**5.3	Special Consumables**
 
 Common things like pipette tips and bottles are not necessary in this list, but more uncommon things like needles of a certain gauge or specific types of 96-wells plates must be mentioned.
 
-**5.4	Other materials**
+**5.4	Other Materials**
 
 For example plasmids, proteins and PCR fragments. For plasmids, proteins, PCR fragments, etc. links to the sequences should be specified: e.g. the supplier name/webpage/product number. For short sequences the entire sequence should be given, for longer sequences a link to the appropriate source should be provided. This section should not however contain any materials generated or designed in other Tasks. Any material, including nucleic acids, generated in other IBISBA protocols must be included in the Inputs section.
 
@@ -104,7 +105,7 @@ For example plasmids, proteins and PCR fragments. For plasmids, proteins, PCR fr
 
 Type of equipment needed to execute this protocol. Specifics like brand name are not necessary (also see Protocol steps section).
 
-**6.	Protocol steps**
+**6.	Protocol Steps**
 
 This section shall contain all steps in chronological order needed to produce the output in the specified format from the inputs and consumables in their specified formats using the specified equipment.
 
@@ -128,7 +129,7 @@ The Output section shall contain all materials and information resulting from ex
 
 Tip: You may explain potential objectives/uses of the information, data and/or materials resulted from this protocol.
 
-**8.	Safety guidelines**
+**8.	Safety Guidelines**
 
 Any dangerous procedures or chemicals shall be mentioned, accompanied by instructions about how to use them safely. Do not forget to mention biosafety risks.
 
@@ -140,7 +141,7 @@ The user must follow all guidelines, recommendations, and procedures set forth b
 
 The user must not under any circumstance execute or attempt the execution of this protocol with weak or insufficient understanding of safety procedures.
 
-**9.	Liability statement**
+**9.	Liability Statement**
 
 The protocol is provided as is, without guaranties of correctness, safety, or fitness for purpose, to be used at own risk. IBISBA, IBISBA 1.0, the authors, and the authors’ institutions are under no circumstances liable for any damages resulting from the use of this protocol or any part of it.
 
