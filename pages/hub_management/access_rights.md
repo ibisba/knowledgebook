@@ -1,5 +1,5 @@
 ---
-title: "Accessing & Licensing"
+title: "Accessing and Licensing"
 tags: [hub]
 # keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
@@ -7,6 +7,7 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: hub_access_and_rights.html
 folder: hub_management
+contributors: ["Jasper Koehorst"]
 ---
 
 ## Security/Privacy
