@@ -8,7 +8,7 @@ sidebar: mydoc_sidebar
 permalink: hub_introduction.html
 folder: hub_management
 toc: false
-contributors: ["Munazah Andrabi , Jasper Koehorst]
+contributors: ["Munazah Andrabi , Jasper Koehorst"]
 ---
 
 ## [IBISBAHub](https://hub.ibisba.eu) is a key part of the IBISBA ecosystem of facilities  
