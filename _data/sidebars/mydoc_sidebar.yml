@@ -43,7 +43,7 @@ subitems:
         url: /one_stop_shop.html
         output: web, pdf
 
-  - title: IBISBAHub Management
+  - title: IBISBA Management
     output: web, pdf
     subitems:
       - title: Business Process Transfer
@@ -58,7 +58,7 @@ subitems:
         url: /licensing_policies.html
         output: web, pdf
 
-  - title: Hub Management
+  - title: IbisbaHub 
     url: /hub_management.html
     output: web, pdf
     subitems:
