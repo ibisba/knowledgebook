@@ -1,5 +1,5 @@
 ---
-title: "Platform and offer"
+title: "Platform and Offer"
 tags: [access]
 # keywords:
 last_updated: September 24, 2020
@@ -7,6 +7,7 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: platform_and_offer.html
 folder: access
+contributors: ["Mauro Di Fenza"]
 ---
 
 
