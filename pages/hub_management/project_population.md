@@ -7,7 +7,7 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: hub_project_population.html
 folder: hub_management
-contributors: ["Munazah Andrabi", "Alan Williams", "Stefan Helfrich"]
+contributors: ["Munazah Andrabi , Alan Williams , "Stefan Helfrich"]
 ---
 
 ### Screencast: Populating a Project using TasCu
