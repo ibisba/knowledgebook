@@ -1,5 +1,5 @@
 ---
-title: "Data templates and formats"
+title: "Data  formats"
 tags: [standardisation, templates, formats]
 # keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
@@ -7,6 +7,7 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: data_templates_formats.html
 folder: standardisation
+contributors: ["Peter Blomberg"]
 ---
 
 Information about data templates and formats used
