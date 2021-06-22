@@ -7,6 +7,7 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: eligibility_criteria.html
 folder: access
+contributors: ["Mauro Di Fenza"]
 ---
 
 
@@ -14,13 +15,13 @@ folder: access
 ### Transnationality
 Obligation to use infrastructure services in a member state or than that of one's usual place of work (user nationality is irrelevant). For multiple services (max 3), use of national facilities may be possible, but these will not be subsidised by IBISBA.
 
-### Project profile
+### Project Profile
 Type: continuum of services. Projects are limited to 1 access on the same platform and to a total of 3 accesses,
 
 Date and time of submission
 The application should be sent before the deadline officially published on the website.
 
-### Science impact
+### Science Impact
 An Expert Selection Panel will help IBISBA administrators to appreciate the quality of each application. However, the TNA administrator and the Executive Board of IBISBA are fully responsible for the final decisions regarding TNA service requests.
 
 Evaluation criteria:
@@ -38,13 +39,13 @@ Evaluation criteria:		Methodology and Implementation
 ### Validation
 Once the evaluation process is completed, final decisions on service requests are taken by the IBISBA Executive Board.
 
-### Access offer - Final Results
+### Access Offer - Final Results
 Results of TNA calls are published on the IBISBA website and individual project proposers are contacted by email. Successful applicants have 10 working days to confirm acceptance of the TNA service offer using the appropriate form to do this.
 
 ### Duration
 Up to 6 months
 
-### Compliance with format
+### Compliance with Format
 Within the application form, all fields must be completed using “Corbel (or Arial) font, size 10” characters, single-spaced (as set by default).
 
 N.B.:  Proposals that are incomplete, not in conformity with the recommended format or are too lengthy will not be reviewed. Proposals must be uploaded to the electronic submission system, named in the following format: `ACRONYM_TNA4_COUNTRYCODE`.
