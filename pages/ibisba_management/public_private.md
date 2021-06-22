@@ -1,5 +1,5 @@
 ---
-title: "Public/Private Policies"
+title: "Public / Private Policies"
 tags: [management]
 # keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
