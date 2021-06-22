@@ -10,7 +10,7 @@ folder: protocols
 toc: false
 contributors: ["Matti Kannisto"]
 ---
-#### Curating a protocol
+
 
 ### Protocols Needing Curation
 
