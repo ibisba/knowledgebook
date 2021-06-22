@@ -1,5 +1,5 @@
 ---
-title: "Project population"
+title: "Project Population"
 tags: [hub]
 # keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
@@ -7,6 +7,7 @@ last_updated: September 24, 2020
 sidebar: mydoc_sidebar
 permalink: hub_project_population.html
 folder: hub_management
+contributors: ["Munazah Andrabi"]
 ---
 
 ### Screencast: Populating a project using TasCu
