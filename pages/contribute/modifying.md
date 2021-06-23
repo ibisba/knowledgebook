@@ -1,5 +1,5 @@
 ---
-title: "Modifying the Handbook"
+title: "Modifying the Content"
 tags: [handbook]
 # keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
