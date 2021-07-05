@@ -4,7 +4,21 @@ title: sidebar
 product: IBISBA Handbook
 version:
 subitems:
-  - title: Access
+  - title: IBISBA Management
+    output: web, pdf
+    subitems:
+      - title: Business Process Transfer
+        url: /business_process_transfer.html
+        output: web, pdf
+
+      - title: Public Private Policies
+        url: /public_private_policies.html
+        output: web, pdf
+
+      - title: Licensing Policies
+        url: /licensing_policies.html
+        output: web, pdf
+  - title: How to Apply
     output: web, pdf
     subitems:
       - title: Transnational Access
@@ -42,22 +56,6 @@ subitems:
       - title: One Stop Shop
         url: /one_stop_shop.html
         output: web, pdf
-
-  - title: IBISBA Management
-    output: web, pdf
-    subitems:
-      - title: Business Process Transfer
-        url: /business_process_transfer.html
-        output: web, pdf
-
-      - title: Public Private Policies
-        url: /public_private_policies.html
-        output: web, pdf
-
-      - title: Licensing Policies
-        url: /licensing_policies.html
-        output: web, pdf
-
   - title: IBISBAHub 
     url: /hub_management.html
     output: web, pdf
