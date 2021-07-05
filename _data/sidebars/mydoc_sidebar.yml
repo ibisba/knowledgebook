@@ -83,6 +83,7 @@ subitems:
         output: web, pdf
       - title: TasCu
         url: /tascu.html
+        output: web, pdf
         
   - title: Protocols
     output: web, pdf
