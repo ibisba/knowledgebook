@@ -2,7 +2,7 @@
 title: "Service Modularisation"
 tags: [standardisation ]
 # keywords: release notes, announcements, what's new, new features
-last_updated: September 24, 2020
+last_updated: 
 # summary: ""
 sidebar: mydoc_sidebar
 permalink: service_mod.html
