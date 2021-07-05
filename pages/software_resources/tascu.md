@@ -5,6 +5,6 @@ tags: []
 last_updated: 
 # summary: ""
 sidebar: mydoc_sidebar
-permalink: 
+permalink: tascu.html
 folder: software_resources
 ---
