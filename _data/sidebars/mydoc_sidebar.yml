@@ -10,11 +10,9 @@ subitems:
       - title: Business Process Transfer
         url: /business_process_transfer.html
         output: web, pdf
-
       - title: Public Private Policies
         url: /public_private_policies.html
         output: web, pdf
-
       - title: Licensing Policies
         url: /licensing_policies.html
         output: web, pdf
@@ -28,27 +26,21 @@ subitems:
           - title: Eligibility Criteria
             url: /eligibility_criteria.html
             output: web, pdf
-
           - title: Platform & Offer
             url: /platform_and_offer.html
             output: web, pdf
-
           - title: Ethics Self-Assessment Checklist
             url: /ethics.html
-            output: web, pdf
-
+            output: web, pdf      
           - title: TNA Funding
             url: /funding.html
             output: web, pdf
-
           - title: Publication & Acknowledgement
             url: /publication_and_acknowledgement.html
             output: web, pdf
-
           - title: Post Access Requirements
             url: /postaccess_requirements.html
             output: web, pdf
-
           - title: TNAs and IBISBAHub
             url: /tnas_hub.html
             output: web, pdf
@@ -56,6 +48,7 @@ subitems:
       - title: One Stop Shop
         url: /one_stop_shop.html
         output: web, pdf
+        
   - title: IBISBAHub 
     url: /hub_management.html
     output: web, pdf
@@ -63,54 +56,49 @@ subitems:
       - title: Introduction to the Hub
         url: /hub_introduction.html
         output: web, pdf
-
       - title: Account Creation
         url: /hub_account_creation.html
         output: web, pdf
-
       - title: Project Registration
         url: /hub_project_registration.html
         output: web, pdf
-
       - title: Project Population
         url: /hub_project_population.html
         output: web, pdf
-
       - title: Upload & Register to the Hub
         url: /upload_register_hub.html
         output: web, pdf
-
       - title: Access Rights
         url: /hub_access_and_rights.html
         output: web, pdf
-
       - title: Publications
         url: /publications.html
         output: web, pdf
-
-  - title: Protocols
+        
+  - title: Software Resources
     output: web, pdf
     subitems:
-      - title: Sharing Protocols
-        url: /sharing_protocols.html
+      - title: Tools
+        url: /tools_used_by_ibisba.html
         output: web, pdf
-
-      - title: Finding Protocols
-        url: /finding_protocols.html
+      - title: TasCu
+        url: /tascu.html
+        
+  - title: Protocols
+    output: web, pdf
+    subitems:      
+      - title: Protocol Requirements
+        url: /creating_protocols.html
         output: web, pdf
-
       - title: Curating Protocols
         url: /curating_protocols.html
         output: web, pdf
-
-      - title: Creating Protocols
-        url: /creating_protocols.html
+      - title: Finding Protocols
+        url: /finding_protocols.html
         output: web, pdf
-
-      - title: Storage of Biological Material
-        url: /storage_of_biological_material.html
+      - title: Sharing Protocols
+        url: /sharing_protocols.html
         output: web, pdf
-
       - title: Metaprotocols
         url: /metaprotocols.html
         output: web, pdf
@@ -118,18 +106,18 @@ subitems:
   - title: Standardisation
     output: web, pdf
     subitems:
+      - title: Service Modularisation
+        url: /service_mod.html
+        output: web, pdf
+      - title: Reporting Template
+        url: /report_temp.html
+        output: web, pdf 
       - title: Data Formats
         url: /data_templates_formats.html
         output: web, pdf
-
       - title: Terminology
         url: /terminology.html
         output: web, pdf
-
-      - title: Tools
-        url: /tools_used_by_ibisba.html
-        output: web, pdf
-
       - title: Data Management
         url: /data_management.html
         output: web, pdf
@@ -140,11 +128,9 @@ subitems:
       - title: Finding a Workflow
         url: /finding_workflow.html
         output: web, pdf
-
       - title: Galaxy SynBioCAD Platform
         url: /galaxy_synbiocad.html
         output: web, pdf
-
       - title: BTL Workflow
         url: /btl_workflow.html
         output: web, pdf
