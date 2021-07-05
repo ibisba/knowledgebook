@@ -132,7 +132,7 @@ subitems:
       - title: Galaxy SynBioCAD Platform
         url: /galaxy_synbiocad.html
         output: web, pdf
-      - title: BTL Workflow
+      - title: DBTL Workflow
         url: /btl_workflow.html
         output: web, pdf
 
