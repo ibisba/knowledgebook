@@ -14,7 +14,7 @@ contributors: ["Matti Kannisto"]
 
 ### Protocols Needing Curation
 
-All IBISBA Protocols must meet the minimal <a href="https://ibisba.github.io/handbook/creating_protocols.html"> requirements </a> and must be written according to the <ahref="https://hub.ibisba.eu/sops/85"> Protocol template </a>. Once you upload a protocol it will be stored in the uncurated Protocols library until checked and edited by an IBISBA curator. Uncurated Protocols will NOT be made public before they have undergone the curation process. Please give management rights to specific curators in order to facilitate the curation process as indicated below. To upload a new protocol please follow the guidelines  <ahref="https://ibisba.github.io./handbook/upload_register_hub.html"> here </a>. While uploading the Protocol please pay attention to the following:
+All IBISBA Protocols must meet the minimal <a href="https://ibisba.github.io/handbook/creating_protocols.html"> requirements </a> and must be written according to the <a href="https://hub.ibisba.eu/sops/85"> Protocol template </a>. Once you upload a protocol it will be stored in the uncurated Protocols library until checked and edited by an IBISBA curator. Uncurated Protocols will NOT be made public before they have undergone the curation process. Please give management rights to specific curators in order to facilitate the curation process as indicated below. To upload a new protocol please follow the guidelines  <a href="https://ibisba.github.io./handbook/upload_register_hub.html"> here </a>. While uploading the Protocol please pay attention to the following:
 
 ### Step1
 Under the section ¨projects¨, make sure to select the ¨Uncurated Protocols Library¨
