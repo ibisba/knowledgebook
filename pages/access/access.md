@@ -1,5 +1,5 @@
 ---
-title: "Transnational Access"
+title: "How to Apply"
 tags: [access]
 keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
