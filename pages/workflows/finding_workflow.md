@@ -11,7 +11,7 @@ maintainer: "Melchior du Lac"
 contributors: ["Melchior du Lac"]
 ---
 
-To find a workflow, visit the following page: https://hub.ibisba.eu/workflows, also found as an entry in the "Browse" selection as shown below:
+To find a workflow, visit the <a href=" https://hub.ibisba.eu/workflows"> page </a>, also found as an entry in the "Browse" selection as shown below:
 
 {% include image.html file="/ibisbahub_main_page.png" alt="" caption="" %}
 
